@@ -53,13 +53,4 @@ The ratio of antigen to antibody is the most critical factor in whether a stable
 
 *   **Postzone (Antigen Excess):** Here, there is far too much antigen relative to the antibody. Every single antibody Fab site is saturated with a separate antigen molecule. No cross-linking can occur because there are no free antibody arms to bind the antigen molecules together. This also leads to a **false negative** result
     *   **Lab Action:** This is less common in patient testing but can be seen. The solution would be to re-test the patient a week or two later after their antibody levels have had a chance to rise
-
-## **Key Terms** {-}
-
-*   **Epitope:** The specific, small region on the surface of an antigen that is recognized and bound by an antibody's paratope; also known as an antigenic determinant
-*   **Paratope:** The specific site in the variable region of an antibody (on the Fab fragment) that forms the pocket for binding to its corresponding epitope
-*   **Affinity:** A measure of the binding strength between a single antigenic epitope and a single antibody binding site (paratope)
-*   **Avidity:** The overall, cumulative binding strength of a multivalent antibody to a multivalent antigen, which is a function of both the affinity and the number of binding sites
-*   **Cross-Reactivity:** The binding of an antibody to an antigen that is different from the immunogen used to produce it, due to structural similarity between their epitopes. A common cause of false positives
-*   **Zone of Equivalence:** The optimal ratio of antigen to antibody concentration where maximal precipitation or agglutination occurs due to extensive lattice formation
-*   **Prozone Effect:** A phenomenon in agglutination or precipitation reactions where a false negative result occurs due to an excess of antibody, which prevents the formation of a cross-linked lattice
+    

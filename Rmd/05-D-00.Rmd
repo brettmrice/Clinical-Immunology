@@ -1,87 +1,87 @@
 # Labeled Immunoassays {-}
 
-The core principle behind all serological tests is the highly specific and powerful binding event between an **antigen (Ag)** and its corresponding **antibody (Ab)**. Early methods, like precipitation, relied on seeing a visible product from this reaction, which required very high concentrations of the target analyte.
+The core principle behind all serological tests is the highly specific and powerful binding event between an **antigen (Ag)** and its corresponding **antibody (Ab)**. Early methods, like precipitation, relied on seeing a visible product from this reaction, which required very high concentrations of the target analyte
 
-The revolutionary leap forward was the idea of **labeling**. Instead of looking for the Ag-Ab complex itself, what if we "tag" one of the components (usually the antibody) with a "reporter" molecule that can be easily detected, even in tiny amounts? This label acts like a signal flare, allowing us to detect and quantify the Ag-Ab reaction with incredible sensitivity.
+The revolutionary leap forward was the idea of **labeling**. Instead of looking for the Ag-Ab complex itself, what if we "tag" one of the components (usually the antibody) with a "reporter" molecule that can be easily detected, even in tiny amounts? This label acts like a signal flare, allowing us to detect and quantify the Ag-Ab reaction with incredible sensitivity
 
 There are several types of labels we can use, each defining a different type of immunoassay:
-*   **Enzyme:** The label is a stable enzyme that, when given a substrate, produces a measurable product. This is the basis of **Enzyme Immunoassay (EIA)** and **En-zyme-Linked Immunosorbent Assay (ELISA)**.
-*   **Fluorochrome:** The label is a fluorescent molecule that emits light of a specific wavelength when excited by a light source. This is the basis of **Fluorescent Immunoassay (FIA)**, like the IFA test for ANA.
-*   **Chemiluminescent Molecule:** The label is a substance that produces light as a result of a chemical reaction. This is the basis of **Chemiluminescence Immu-noassays (CLIA)**, one of the most sensitive methods used on high-throughput automated analyzers.
-*   **Radioisotope:** The label is a radioactive atom. This is the basis of **Radioim-munoassay (RIA)**, a historically important but now less common method due to safety and disposal concerns.
+*   **Enzyme:** The label is a stable enzyme that, when given a substrate, produces a measurable product. This is the basis of **Enzyme Immunoassay (EIA)** and **En-zyme-Linked Immunosorbent Assay (ELISA)**
+*   **Fluorochrome:** The label is a fluorescent molecule that emits light of a specific wavelength when excited by a light source. This is the basis of **Fluorescent Immunoassay (FIA)**, like the IFA test for ANA
+*   **Chemiluminescent Molecule:** The label is a substance that produces light as a result of a chemical reaction. This is the basis of **Chemiluminescence Immu-noassays (CLIA)**, one of the most sensitive methods used on high-throughput automated analyzers
+*   **Radioisotope:** The label is a radioactive atom. This is the basis of **Radioim-munoassay (RIA)**, a historically important but now less common method due to safety and disposal concerns
 
 ## **Enzyme Immunoassay (EIA) / ELISA: The Gold Standard** {-}
 
-ELISA is the quintessential labeled immunoassay. It is versatile, robust, and can be adapted to detect either antigen or antibody. The "sorbent" part of the name refers to the fact that one of the components (either the antigen or a capture antibody) is immobilized by being adsorbed onto a **solid phase**, typically the well of a 96-well microtiter plate.
+ELISA is the quintessential labeled immunoassay. It is versatile, robust, and can be adapted to detect either antigen or antibody. The "sorbent" part of the name refers to the fact that one of the components (either the antigen or a capture antibody) is immobilized by being adsorbed onto a **solid phase**, typically the well of a 96-well microtiter plate
 
 ## **Key Reagents of an ELISA** {-}
 
-*   **Solid Phase:** The plastic well provides a surface to attach a reactant.
-*   **Antigen/Antibody:** The specific molecules we are trying to detect.
-*   **Conjugate:** The "reporter" molecule. This is an antibody that has been cova-lently linked to an enzyme. Common enzymes include **Horseradish Peroxidase (HRP)** and **Alkaline Phosphatose (AP)**.
-*   **Substrate:** A chemical that the enzyme acts upon to produce a color change.
-*   **Stop Solution:** A chemical that stops the enzyme-substrate reaction, often by changing the pH.
+*   **Solid Phase:** The plastic well provides a surface to attach a reactant
+*   **Antigen/Antibody:** The specific molecules we are trying to detect
+*   **Conjugate:** The "reporter" molecule. This is an antibody that has been cova-lently linked to an enzyme. Common enzymes include **Horseradish Peroxidase (HRP)** and **Alkaline Phosphatose (AP)**
+*   **Substrate:** A chemical that the enzyme acts upon to produce a color change
+*   **Stop Solution:** A chemical that stops the enzyme-substrate reaction, often by changing the pH
 
 ## **Types of ELISA Methods** {-}
 
-There are many variations of ELISA, but they all rely on the same building blocks. Let's review the most common formats.
+There are many variations of ELISA, but they all rely on the same building blocks. Let's review the most common formats
 
 ### **Indirect ELISA (For Detecting Antibody)** {-}
 
-This is the most common format for infectious disease serology, where the goal is to see if a patient has antibodies to a specific pathogen.
+This is the most common format for infectious disease serology, where the goal is to see if a patient has antibodies to a specific pathogen
 
 *   **Principle:** "Looking for the patient's antibody."
-*   **Procedure:**
-    1.  **Coating:** Purified **antigen** (e.g., proteins from the HIV virus) is bound to the bottom of the wells.
-    2.  **Sample Addition:** The patient's serum is added. If the serum contains the specific **antibody** (the primary antibody), it will bind to the antigen on the plate.
-    3.  **Washing:** The plate is washed to remove any unbound antibodies.
-    4.  **Conjugate Addition:** A **secondary antibody**—an enzyme-labeled anti-human immunoglobulin—is added. This conjugate binds to the Fc portion of the patient's antibody that is already stuck to the plate.
-    5.  **Washing:** The plate is washed again to remove any unbound conjugate.
-    6.  **Substrate Addition:** A colorless substrate is added. The enzyme on the conjugate acts on the substrate to produce a **colored product**.
-    7.  **Detection:** The amount of color that develops is measured by a spectro-photometer and is directly proportional to the amount of patient antibody in the sample.
+*   **Procedure**
+    1.  **Coating** Purified **antigen** (e.g., proteins from the HIV virus) is bound to the bottom of the wells
+    2.  **Sample Addition** The patient's serum is added. If the serum contains the specific **antibody** (the primary antibody), it will bind to the antigen on the plate
+    3.  **Washing** The plate is washed to remove any unbound antibodies
+    4.  **Conjugate Addition** A **secondary antibody**—an enzyme-labeled anti-human immunoglobulin—is added. This conjugate binds to the Fc portion of the patient's antibody that is already stuck to the plate
+    5.  **Washing** The plate is washed again to remove any unbound conjugate
+    6.  **Substrate Addition** A colorless substrate is added. The enzyme on the conjugate acts on the substrate to produce a **colored product**
+    7.  **Detection** The amount of color that develops is measured by a spectro-photometer and is directly proportional to the amount of patient antibody in the sample
 
-*   **Example:** Screening for antibodies to HIV, Rubella, or HCV.
+*   **Example:** Screening for antibodies to HIV, Rubella, or HCV
 
 ### **Sandwich (or Capture) ELISA (For Detecting Antigen)** {-}
 
-This format is ideal for measuring the concentration of a soluble antigen in a sample, like a hormone, cytokine, or tumor marker.
+This format is ideal for measuring the concentration of a soluble antigen in a sample, like a hormone, cytokine, or tumor marker
 
-*   **Principle:** "Looking for the patient's antigen." The antigen is "sandwiched" between two antibodies.
-*   **Procedure:**
-    1.  **Coating:** The wells are coated with a specific, unlabeled **capture antibody**.
-    2.  **Sample Addition:** The patient's serum is added. If the **antigen** is present, it will be captured by the antibody on the plate.
-    3.  **Washing:** Unbound components are washed away.
-    4.  **Conjugate Addition:** A second, **enzyme-labeled detection antibody** (which recognizes a different epitope on the same antigen) is added. This forms the "sandwich": **Ab — Ag — Ab-Enzyme**.
-    5.  **Washing:** Unbound conjugate is washed away.
-    6.  **Substrate Addition:** Substrate is added, and the color develops.
-    7.  **Detection:** The amount of color is directly proportional to the amount of antigen in the sample.
+*   **Principle:** "Looking for the patient's antigen." The antigen is "sandwiched" between two antibodies
+*   **Procedure**
+    1.  **Coating** The wells are coated with a specific, unlabeled **capture antibody**
+    2.  **Sample Addition** The patient's serum is added. If the **antigen** is present, it will be captured by the antibody on the plate
+    3.  **Washing** Unbound components are washed away
+    4.  **Conjugate Addition** A second, **enzyme-labeled detection antibody** (which recognizes a different epitope on the same antigen) is added. This forms the "sandwich": **Ab — Ag — Ab-Enzyme**
+    5.  **Washing** Unbound conjugate is washed away
+    6.  **Substrate Addition** Substrate is added, and the color develops
+    7.  **Detection** The amount of color is directly proportional to the amount of antigen in the sample
 
-*   **Example:** Measuring levels of PSA (Prostate-Specific Antigen) or hCG (for a pregnancy test).
+*   **Example:** Measuring levels of PSA (Prostate-Specific Antigen) or hCG (for a pregnancy test)
 
 ### **Competitive ELISA (For Detecting Small Antigens)** {-}
 
-This method is a bit counter-intuitive but very clever. It's used when the antigen is too small to be bound by two antibodies at once (i.e., you can't form a sandwich).
+This method is a bit counter-intuitive but very clever. It's used when the antigen is too small to be bound by two antibodies at once (i.e., you can't form a sandwich)
 
 *   **Principle:** The patient's unlabeled antigen competes with a labeled antigen for a limited number of binding sites. The more antigen in the patient's sample, the *less* signal is produced. **The signal is inversely proportional to the concentration of the analyte.**
-*   **Procedure:**
-    1.  **Coating:** Wells are coated with capture antibody.
-    2.  **Sample/Conjugate Addition:** The patient's sample is incubated **simultaneously** with a known amount of **enzyme-labeled antigen (the conjugate)**. The patient's unlabeled antigen and the labeled antigen compete to bind to the limited number of capture antibodies on the plate.
-    3.  **Washing:** Unbound materials are washed away.
-    4.  **Substrate Addition:** Substrate is added and color develops.
-    5.  **Detection:**
-        *   If the patient has **a lot** of antigen, it will out-compete the labeled antigen, so very little labeled antigen will bind, resulting in **low color/low signal**.
-        *   If the patient has **no** antigen, all the binding sites will be occupied by the labeled antigen, resulting in **high color/high signal**.
+*   **Procedure**
+    1.  **Coating** Wells are coated with capture antibody
+    2.  **Sample/Conjugate Addition** The patient's sample is incubated **simultaneously** with a known amount of **enzyme-labeled antigen (the conjugate)**. The patient's unlabeled antigen and the labeled antigen compete to bind to the limited number of capture antibodies on the plate
+    3.  **Washing** Unbound materials are washed away
+    4.  **Substrate Addition** Substrate is added and color develops
+    5.  **Detection**
+        *   If the patient has **a lot** of antigen, it will out-compete the labeled antigen, so very little labeled antigen will bind, resulting in **low color/low signal**
+        *   If the patient has **no** antigen, all the binding sites will be occupied by the labeled antigen, resulting in **high color/high signal**
 
 ## **Advantages of ELISA and other Labeled Immunoassays** {-}
 
-*   **High Sensitivity:** Capable of detecting analytes at the nanogram (ng/mL) or even picogram (pg/mL) level.
-*   **High Specificity:** The use of monoclonal antibodies and specific antigens makes these tests very precise.
-*   **Versatility:** Can be adapted to measure almost any antigen or antibody.
-*   **Quantitation:** Can be used to generate a standard curve, allowing for precise, quantitative results (e.g., 25 IU/mL).
-*   **Automation:** The format is ideal for use on high-throughput automated analyzers, which is the backbone of the modern clinical lab.
+*   **High Sensitivity:** Capable of detecting analytes at the nanogram (ng/mL) or even picogram (pg/mL) level
+*   **High Specificity:** The use of monoclonal antibodies and specific antigens makes these tests very precise
+*   **Versatility:** Can be adapted to measure almost any antigen or antibody
+*   **Quantitation:** Can be used to generate a standard curve, allowing for precise, quantitative results (e.g., 25 IU/mL)
+*   **Automation:** The format is ideal for use on high-throughput automated analyzers, which is the backbone of the modern clinical lab
 
 ## **A Quick Note on Homogeneous vs. Heterogeneous Assays** {-}
 
-ELISA is a **heterogeneous immunoassay**. The word "heterogeneous" means that it requires **washing/separation steps** to separate the bound labeled reagent from the free (unbound) labeled reagent. This is a critical feature.
+ELISA is a **heterogeneous immunoassay**. The word "heterogeneous" means that it requires **washing/separation steps** to separate the bound labeled reagent from the free (unbound) labeled reagent. This is a critical feature
 
-There are also **homogeneous immunoassays**, which are "mix-and-read" tests that **do not require a separation step**. These are common in therapeutic drug monitoring on chemistry analyzers. The activity of the enzyme label is directly affected by whether or not it is bound to the antibody, so free and bound label can be distinguished without washing.
+There are also **homogeneous immunoassays**, which are "mix-and-read" tests that **do not require a separation step**. These are common in therapeutic drug monitoring on chemistry analyzers. The activity of the enzyme label is directly affected by whether or not it is bound to the antibody, so free and bound label can be distinguished without washing

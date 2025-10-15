@@ -54,14 +54,4 @@ B-cells, or B-lymphocytes, are the soldiers of **humoral immunity** (immunity me
     *   **Serology:** Virtually all our infectious disease testing involves detecting **antibodies (IgM and IgG)** produced by plasma cells in the patient's serum
     *   **Autoimmune Disease:** Many autoimmune diseases (like lupus or rheumatoid arthritis) are caused by B-cells producing "autoantibodies" that attack the body's own tissues
     *   **Multiple Myeloma:** This is a cancer of plasma cells. In the lab, we diagnose it by finding a massive overproduction of a single type of antibody (a monoclonal protein) in the patient's serum
-
-
-## **Key Terms** {-}
-
-*   **Antigen Presentation:** The process by which cells like macrophages engulf a pathogen, digest it, and display its fragments (antigens) on their MHC molecules for recognition by T-cells
-*   **MHC (Major Histocompatibility Complex):** A set of cell surface proteins essential for the adaptive immune system to recognize foreign molecules. MHC-I displays internal proteins (for CD8+ cells), while MHC-II displays external, phagocytosed proteins (for CD4+ cells)
-*   **CD4+ T-Helper Cell:** The "general" of the immune system that, upon activation, directs and amplifies the response of other immune cells, including B-cells and cytotoxic T-cells
-*   **CD8+ Cytotoxic T-Lymphocyte (CTL):** The "assassin" of the immune system that recognizes and kills host cells infected with intracellular pathogens (like viruses) or cancerous cells
-*   **Humoral Immunity:** The branch of adaptive immunity mediated by antibodies produced by B-cells, which circulate in the blood and other body fluids
-*   **Cell-Mediated Immunity:** The branch of adaptive immunity driven primarily by T-cells, which does not involve antibodies but involves the direct killing of infected cells or the activation of other immune cells
-*   **Plasma Cell:** A fully differentiated B-lymphocyte that is specialized in producing and secreting large quantities of a single type of antibody
+    

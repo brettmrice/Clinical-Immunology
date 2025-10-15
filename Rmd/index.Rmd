@@ -11,7 +11,7 @@ description: |
 
 # **About** {-}
 
-Information intended to assist preparation for Laboratory Operations content on <a href="https://www.ascp.org/content/board-of-certification/get-credentialed" target="_blank">ASCP BOC's</a> certification exam Content Guidelines for the MLT and MLS certification exams and portions of Catergorical and Specialists certification exams
+Information intended to assist preparation for Clinical Immunology content on <a href="https://www.ascp.org/content/board-of-certification/get-credentialed" target="_blank">ASCP BOC's</a> certification exam Content Guidelines for the MLT and MLS certification exams
 
 You are recommend to use this information as a supplement to the "Reading List" cited  by the <a href="https://www.ascp.org/content/board-of-certification/get-credentialed" target="_blank">ASCP BOC</a> for the MLT and MLS certifications
 

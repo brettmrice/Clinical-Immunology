@@ -56,14 +56,3 @@ MHC molecules are the "serving platters" that present peptide antigens to T-cell
 *   **Autoimmune Disease Susceptibility:** An individual's specific set of HLA alleles is strongly associated with their risk of developing certain autoimmune diseases. For example, over 90% of people with Ankylosing Spondylitis have the **HLA-B27** allele. The theory is that this specific "serving platter" is particularly good at presenting a self-antigen that triggers an autoimmune response
 
 *   **Immunodeficiency:** Rare genetic defects in the **RAG genes** are catastrophic. A person born with non-functional RAG enzymes cannot perform V(D)J recombination. This means they cannot produce any functional B-cells or T-cells, a condition known as Severe Combined Immunodeficiency (SCID)
-
-
-## **Key Terms** {-}
-
-*   **V(D)J Recombination:** The unique genetic process in developing lymphocytes that randomly shuffles and joins gene segments (V, D, J) to create novel genes for antibody and T-cell receptor variable regions
-*   **Somatic Recombination:** Genetic recombination that occurs in somatic (non-germline) cells, such as a maturing B-cell. This means the changes are not passed on to offspring
-*   **RAG Enzymes (Recombination-Activating Genes):** The specialized "molecular scissors" that perform the cutting and pasting of DNA during V(D)J recombination
-*   **Junctional Diversity:** The introduction of random nucleotide variations at the junctions of V, D, and J segments during recombination, which massively increases the diversity of the antigen-binding site
-*   **Polymorphism:** The existence of many different forms (alleles) of a single gene within a population. The HLA genes are the most polymorphic genes in humans
-*   **HLA (Human Leukocyte Antigen):** The human version of the Major Histocompatibility Complex (MHC). These are the cell surface molecules that present antigens to T-cells
-*   **Haplotype:** The specific set of HLA alleles that an individual inherits together from one parent on a single chromosome

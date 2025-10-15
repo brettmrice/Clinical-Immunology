@@ -2,75 +2,75 @@
 
 # ANA {-}
 
-The purpose of the ANA test is to answer a single, critical question: **"Is this patient producing antibodies that are targeting components within the nucleus of their own cells?"** The presence of these autoantibodies is a hallmark of systemic autoimmune disease, where the immune system loses its ability to tolerate its own nuclear material.
+The purpose of the ANA test is to answer a single, critical question: **"Is this patient producing antibodies that are targeting components within the nucleus of their own cells?"** The presence of these autoantibodies is a hallmark of systemic autoimmune disease, where the immune system loses its ability to tolerate its own nuclear material
 
-While several methods exist, the gold standard—and the method you must know inside and out—is **Indirect Immunofluorescence Antibody (IFA)** testing. The substrate we use for this test has evolved, and the current standard is a human epithelial cell line called **HEp-2**.
+While several methods exist, the gold standard—and the method you must know inside and out—is **Indirect Immunofluorescence Antibody (IFA)** testing. The substrate we use for this test has evolved, and the current standard is a human epithelial cell line called **HEp-2**
 
 ## **Substrate: Why HEp-2 Cells are Ideal** {-}
 
-*   **Human Origin:** Using human cells ensures that all the relevant human nuclear antigens are present.
-*   **Large Nuclei:** HEp-2 cells are a cancerous cell line, and one of their key features is a very large nucleus-to-cytoplasm ratio. This makes the nucleus easy to see under the microscope.
-*   **Prominent Nucleoli:** These cells have very distinct nucleoli within the nucleus, which is critical for identifying the "nucleolar" staining pattern.
-*   **Visible Mitotic Figures:** Because these are rapidly dividing cancer cells, there are always cells on the slide that are caught in the middle of mitosis (cell division). This is extremely important because the appearance of the staining on these mitotic cells helps us identify specific patterns, like the "centromere" pattern.
+*   **Human Origin:** Using human cells ensures that all the relevant human nuclear antigens are present
+*   **Large Nuclei:** HEp-2 cells are a cancerous cell line, and one of their key features is a very large nucleus-to-cytoplasm ratio. This makes the nucleus easy to see under the microscope
+*   **Prominent Nucleoli:** These cells have very distinct nucleoli within the nucleus, which is critical for identifying the "nucleolar" staining pattern
+*   **Visible Mitotic Figures:** Because these are rapidly dividing cancer cells, there are always cells on the slide that are caught in the middle of mitosis (cell division). This is extremely important because the appearance of the staining on these mitotic cells helps us identify specific patterns, like the "centromere" pattern
 
 ## **Principle of the Test: Indirect Immunofluorescence Antibody (IFA)** {-}
 
-The IFA method is a classic "two-step" or "sandwich" serological technique. We are using a fluorescently-labeled antibody to detect the patient's own antibody.
+The IFA method is a classic "two-step" or "sandwich" serological technique. We are using a fluorescently-labeled antibody to detect the patient's own antibody
 
-1.  **Antigen is Fixed to the Slide:** The procedure starts with a pre-made microscope slide that has a monolayer of fixed HEp-2 cells attached to it. The fixing process makes the cell and nuclear membranes permeable, so antibodies can get inside and reach the nuclear antigens.
+1.  **Antigen is Fixed to the Slide** The procedure starts with a pre-made microscope slide that has a monolayer of fixed HEp-2 cells attached to it. The fixing process makes the cell and nuclear membranes permeable, so antibodies can get inside and reach the nuclear antigens
 
-2.  **Step 1: Patient Antibody Binds to the Antigen:** The patient's serum is diluted (typically starting at a 1:80 or 1:40 dilution) and incubated on the slide. If the patient's serum contains ANAs, these antibodies (the **primary antibody**) will bind to their specific target antigens within the nuclei of the HEp-2 cells.
+2.  **Step 1: Patient Antibody Binds to the Antigen** The patient's serum is diluted (typically starting at a 1:80 or 1:40 dilution) and incubated on the slide. If the patient's serum contains ANAs, these antibodies (the **primary antibody**) will bind to their specific target antigens within the nuclei of the HEp-2 cells
 
-3.  **Washing Step:** The slide is washed to remove all unbound patient antibodies. Only the ANAs that have specifically bound to the nuclear components remain.
+3.  **Washing Step** The slide is washed to remove all unbound patient antibodies. Only the ANAs that have specifically bound to the nuclear components remain
 
-4.  **Step 2: Labeled Antibody Binds to the Patient Antibody:** A fluorescently-labeled **secondary antibody** is added. This is an "anti-human immunoglobulin" (usually targeting the Fc portion of IgG) that has been chemically conjugated to a **fluorochrome**, most commonly **fluorescein isothiocyanate (FITC)**, which glows a bright, apple-green color under a fluorescent microscope. This secondary antibody will bind to any of the patient's antibodies that are stuck to the HEp-2 cells.
+4.  **Step 2: Labeled Antibody Binds to the Patient Antibody** A fluorescently-labeled **secondary antibody** is added. This is an "anti-human immunoglobulin" (usually targeting the Fc portion of IgG) that has been chemically conjugated to a **fluorochrome**, most commonly **fluorescein isothiocyanate (FITC)**, which glows a bright, apple-green color under a fluorescent microscope. This secondary antibody will bind to any of the patient's antibodies that are stuck to the HEp-2 cells
 
-5.  **Final Washing Step:** The slide is washed again to remove any unbound fluorescent antibody.
+5.  **Final Washing Step** The slide is washed again to remove any unbound fluorescent antibody
 
-6.  **Reading:** The slide is viewed under a dark-field fluorescent microscope. The technologist looks for a specific pattern of apple-green fluorescence within the nuclei of the interphase (resting) cells.
+6.  **Reading** The slide is viewed under a dark-field fluorescent microscope. The technologist looks for a specific pattern of apple-green fluorescence within the nuclei of the interphase (resting) cells
 
 ## **Interpretation of Results: The "Three T's" - Titer, Triage, and Telling the Pattern** {-}
 
-A positive ANA result is not a simple "yes" or "no." A complete and clinically useful report includes two key pieces of information: the **titer** and the **staining pattern**.
+A positive ANA result is not a simple "yes" or "no." A complete and clinically useful report includes two key pieces of information: the **titer** and the **staining pattern**
 
 ### **1. Positive or Negative?** {-}
 
-The first decision is a binary one. The technologist compares the fluorescence of the HEp-2 cell nuclei to a negative control. If the nuclei show a clear, discernible pattern of green fluorescence above the background, the test is **positive**. If there is no specific nuclear fluorescence, the test is **negative**.
+The first decision is a binary one. The technologist compares the fluorescence of the HEp-2 cell nuclei to a negative control. If the nuclei show a clear, discernible pattern of green fluorescence above the background, the test is **positive**. If there is no specific nuclear fluorescence, the test is **negative**
 
-*   **Clinical Significance of a Negative Result:** The ANA test is extremely **sensitive** for SLE (>95%). This means a **negative ANA result is a very powerful piece of evidence to help rule out a diagnosis of SLE**.
+*   **Clinical Significance of a Negative Result:** The ANA test is extremely **sensitive** for SLE (>95%). This means a **negative ANA result is a very powerful piece of evidence to help rule out a diagnosis of SLE**
 
 ### **2. Titer: How Much Antibody is There?** {-}
 
-If the screening dilution (e.g., 1:80) is positive, we must determine the **titer**. This is a semi-quantitative measure of the antibody concentration.
+If the screening dilution (e.g., 1:80) is positive, we must determine the **titer**. This is a semi-quantitative measure of the antibody concentration
 
-*   **The Procedure:** We perform serial two-fold dilutions of the patient's serum (1:80, 1:160, 1:320, 1:640, etc.) and test each dilution on a separate well.
-*   **The Report:** The titer is reported as the **reciprocal of the last dilution** that still shows a clear, positive fluorescence. For example, if the 1:320 dilution is positive but the 1:640 dilution is negative, the reported titer is **1:320**.
-*   **Clinical Significance:** A higher titer is generally more clinically significant and more likely to be associated with an active autoimmune disease. Low titers (e.g., 1:80) can be seen in a small percentage of healthy individuals, especially the elderly.
+*   **The Procedure:** We perform serial two-fold dilutions of the patient's serum (1:80, 1:160, 1:320, 1:640, etc.) and test each dilution on a separate well
+*   **The Report:** The titer is reported as the **reciprocal of the last dilution** that still shows a clear, positive fluorescence. For example, if the 1:320 dilution is positive but the 1:640 dilution is negative, the reported titer is **1:320**
+*   **Clinical Significance:** A higher titer is generally more clinically significant and more likely to be associated with an active autoimmune disease. Low titers (e.g., 1:80) can be seen in a small percentage of healthy individuals, especially the elderly
 
 ### **3. Staining Pattern: What is the Antibody Targeting?** {-}
 
-This is the most skillful part of the test. The pattern of the fluorescence within the nucleus gives the physician a critical clue as to which specific nuclear antigen the autoantibody is targeting. This helps guide the more specific (and expensive) follow-up testing.
+This is the most skillful part of the test. The pattern of the fluorescence within the nucleus gives the physician a critical clue as to which specific nuclear antigen the autoantibody is targeting. This helps guide the more specific (and expensive) follow-up testing
 
-*   **Homogeneous (or Diffuse) Pattern:**
-    *   **Appearance:** The entire nucleus of the interphase cells stains smoothly and evenly. The chromosomes of the mitotic cells will also stain very brightly.
-    *   **Associated Antigens:** Often associated with antibodies to **dsDNA** and **histones**.
-    *   **Disease Association:** This is the classic pattern seen in **SLE** and is also the hallmark of **drug-induced lupus**.
+*   **Homogeneous (or Diffuse) Pattern**
+    *   **Appearance:** The entire nucleus of the interphase cells stains smoothly and evenly. The chromosomes of the mitotic cells will also stain very brightly
+    *   **Associated Antigens:** Often associated with antibodies to **dsDNA** and **histones**
+    *   **Disease Association:** This is the classic pattern seen in **SLE** and is also the hallmark of **drug-induced lupus**
 
-*   **Speckled Pattern:**
-    *   **Appearance:** The nucleus is filled with many fine or coarse points of light. It looks "speckled." Crucially, the chromosomes of the mitotic cells **do not** stain.
-    *   **Associated Antigens:** This is a broad category caused by antibodies against a group of antigens called **Extractable Nuclear Antigens (ENAs)**. This includes **Smith (Sm), RNP, SSA/Ro, SSB/La**.
-    *   **Disease Association:** This is the **most common pattern** seen overall and can be associated with **SLE, Sjögren's syndrome, scleroderma**, and **mixed connective tissue disease (MCTD)**.
+*   **Speckled Pattern**
+    *   **Appearance:** The nucleus is filled with many fine or coarse points of light. It looks "speckled." Crucially, the chromosomes of the mitotic cells **do not** stain
+    *   **Associated Antigens:** This is a broad category caused by antibodies against a group of antigens called **Extractable Nuclear Antigens (ENAs)**. This includes **Smith (Sm), RNP, SSA/Ro, SSB/La**
+    *   **Disease Association:** This is the **most common pattern** seen overall and can be associated with **SLE, Sjögren's syndrome, scleroderma**, and **mixed connective tissue disease (MCTD)**
 
-*   **Nucleolar Pattern:**
-    *   **Appearance:** Only the 2-3 large nucleoli within the nucleus stain, appearing as large, clumpy points of light.
-    *   **Associated Antigens:** Antibodies to fibrillarin.
-    *   **Disease Association:** This pattern is highly suggestive of **scleroderma**.
+*   **Nucleolar Pattern**
+    *   **Appearance:** Only the 2-3 large nucleoli within the nucleus stain, appearing as large, clumpy points of light
+    *   **Associated Antigens:** Antibodies to fibrillarin
+    *   **Disease Association:** This pattern is highly suggestive of **scleroderma**
 
-*   **Centromere Pattern:**
-    *   **Appearance:** In the interphase cells, this looks like a discrete speckled pattern with about 46 separate speckles. The definitive clue comes from the **mitotic cells**: the staining localizes exclusively to the centromeres of the condensed chromosomes, which are lined up along the metaphase plate.
-    *   **Associated Antigens:** Antibodies to the centromere protein-B (CENP-B).
-    *   **Disease Association:** This pattern is highly **specific** for a limited form of scleroderma known as **CREST syndrome**.
+*   **Centromere Pattern**
+    *   **Appearance:** In the interphase cells, this looks like a discrete speckled pattern with about 46 separate speckles. The definitive clue comes from the **mitotic cells**: the staining localizes exclusively to the centromeres of the condensed chromosomes, which are lined up along the metaphase plate
+    *   **Associated Antigens:** Antibodies to the centromere protein-B (CENP-B)
+    *   **Disease Association:** This pattern is highly **specific** for a limited form of scleroderma known as **CREST syndrome**
 
 ## **Final Step: The ENA/dsDNA Follow-up** {-}
 
-A positive ANA by IFA is a **screening test**. It is not diagnostic on its own. The titer and pattern are used to guide the physician to order more specific tests, usually an **ENA (Extractable Nuclear Antigen) panel** or an **anti-dsDNA** test, which are performed by ELISA or other immunoassay. These tests will identify the specific autoantibody (e.g., anti-Sm, anti-SSA) and confirm the diagnosis.
+A positive ANA by IFA is a **screening test**. It is not diagnostic on its own. The titer and pattern are used to guide the physician to order more specific tests, usually an **ENA (Extractable Nuclear Antigen) panel** or an **anti-dsDNA** test, which are performed by ELISA or other immunoassay. These tests will identify the specific autoantibody (e.g., anti-Sm, anti-SSA) and confirm the diagnosis

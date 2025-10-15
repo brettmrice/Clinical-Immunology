@@ -48,13 +48,4 @@ Modern serology relies heavily on labeled immunoassays. Here, we don't wait to s
 *   **Radioimmunoassay (RIA)**
     *   **Principle:** The original labeled immunoassay. The label is a **radioisotope** (like Iodine-125). The amount of bound antigen or antibody is measured by counting the radioactivity with a gamma counter
     *   **In the Lab:** Largely replaced by EIA and CLIA due to the expense, safety concerns, and waste disposal issues associated with radioactive materials. However, it's a historically important technique that established the principles for all other labeled assays
-
-## **Key Terms** {-}
-
-*   **Precipitation:** An immunoassay principle where a soluble antigen and a soluble antibody interact to form a large, insoluble, and visible lattice complex
-*   **Agglutination:** An immunoassay principle where antibodies cross-link particulate antigens (or antigen-coated particles), resulting in visible clumping
-*   **Label/Reporter Molecule:** A molecule (e.g., enzyme, fluorochrome) that is covalently attached to an antigen or antibody in an immunoassay to allow for visualization and measurement of the binding reaction
-*   **ELISA (Enzyme-Linked Immunosorbent Assay):** A highly sensitive immunoassay that uses an enzyme label and a chromogenic substrate to produce a measurable color change, indicating the presence of an antigen or antibody
-*   **Solid Phase:** The physical surface (e.g., a microtiter well, a bead) to which antigens or antibodies are bound in many modern immunoassays, allowing for easy separation of bound and unbound reactants
-*   **Sensitivity:** The ability of a test to correctly identify individuals who *have* the disease or condition (a measure of true positives). Highly sensitive tests, like CLIAs, can detect very small amounts of an analyte
-*   **Specificity:** The ability of a test to correctly identify individuals who do *not* have the disease or condition (a measure of true negatives). High specificity means a low rate of false positives
+    

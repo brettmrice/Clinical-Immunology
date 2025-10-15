@@ -1,60 +1,60 @@
 # Nontreponemal Syphilis {-}
 
-To understand this test, you must first grasp the core concept of "nontreponemal." Syphilis is caused by the spirochete bacterium *Treponema pallidum*. A "treponemal" test looks for antibodies made directly against the bacteria itself. A **nontreponemal** test, however, does not.
+To understand this test, you must first grasp the core concept of "nontreponemal." Syphilis is caused by the spirochete bacterium *Treponema pallidum*. A "treponemal" test looks for antibodies made directly against the bacteria itself. A **nontreponemal** test, however, does not
 
-Instead, nontreponemal tests detect a surrogate marker of the infection. They look for an antibody called **reagin**. This is an antibody that is produced by the patient in response to the cellular damage caused by the syphilis infection. The spirochete is a highly invasive organism that damages host cells, causing them to release lipid material, primarily **cardiolipin**. The immune system sees this lipid complex as foreign and creates reagin antibodies against it.
+Instead, nontreponemal tests detect a surrogate marker of the infection. They look for an antibody called **reagin**. This is an antibody that is produced by the patient in response to the cellular damage caused by the syphilis infection. The spirochete is a highly invasive organism that damages host cells, causing them to release lipid material, primarily **cardiolipin**. The immune system sees this lipid complex as foreign and creates reagin antibodies against it
 
-Think of it this way: a treponemal test is like finding the criminal's fingerprints at a crime scene. A nontreponemal test is like a smoke detector; it's not detecting the arsonist, but it's detecting the *consequence* of the fire they set. This is the key to understanding both the utility and the major limitation of the RPR test.
+Think of it this way: a treponemal test is like finding the criminal's fingerprints at a crime scene. A nontreponemal test is like a smoke detector; it's not detecting the arsonist, but it's detecting the *consequence* of the fire they set. This is the key to understanding both the utility and the major limitation of the RPR test
 
 ## **Principle of the Test: Flocculation** {-}
 
-The RPR test is a **macroscopic flocculation** assay. This is a type of precipitation reaction where the soluble reagin antibody in the patient's serum interacts with the soluble cardiolipin antigen in our reagent. This interaction forms microscopic, insoluble immune complexes that then clump together. We use special particles in our reagent to make these clumps visible to the naked eye.
+The RPR test is a **macroscopic flocculation** assay. This is a type of precipitation reaction where the soluble reagin antibody in the patient's serum interacts with the soluble cardiolipin antigen in our reagent. This interaction forms microscopic, insoluble immune complexes that then clump together. We use special particles in our reagent to make these clumps visible to the naked eye
 
-It's important to distinguish this from agglutination.
+It's important to distinguish this from agglutination
 
-*   **Agglutination:** Clumping of large, particulate antigens (like bacteria or latex beads).
-*   **Flocculation:** Clumping of fine, insoluble precipitates that were formed from a soluble antigen-antibody reaction.
+*   **Agglutination:** Clumping of large, particulate antigens (like bacteria or latex beads)
+*   **Flocculation:** Clumping of fine, insoluble precipitates that were formed from a soluble antigen-antibody reaction
 
 ## **RPR Reagents: A Clever Cocktail** {-}
 
 The "antigen" suspension we use in the RPR test is a finely tuned mixture with several key components:
 
-*   **Cardiolipin, Lecithin, and Cholesterol:** This is the standardized lipid antigen complex that mimics the material released from damaged host cells.
-*   **Charcoal Particles:** This is the most brilliant part of the RPR test. The microscopic immune complexes get trapped in the lattice of the charcoal particles. When the complexes form, they clump the black charcoal particles together, making the reaction **visible to the naked eye** against a white background. This is why VDRL needs a microscope and RPR does not.
-*   **Choline Chloride:** This chemical inactivates complement and other inhibitory substances, which allows us to use unheated **plasma** or serum for the test. The older VDRL test requires heat-inactivating the patient's serum.
+*   **Cardiolipin, Lecithin, and Cholesterol:** This is the standardized lipid antigen complex that mimics the material released from damaged host cells
+*   **Charcoal Particles:** This is the most brilliant part of the RPR test. The microscopic immune complexes get trapped in the lattice of the charcoal particles. When the complexes form, they clump the black charcoal particles together, making the reaction **visible to the naked eye** against a white background. This is why VDRL needs a microscope and RPR does not
+*   **Choline Chloride:** This chemical inactivates complement and other inhibitory substances, which allows us to use unheated **plasma** or serum for the test. The older VDRL test requires heat-inactivating the patient's serum
 
 ## **RPR Procedure: The "Swirl and Look"** {-}
 
-The manual RPR test is performed on a plastic-coated disposable card.
+The manual RPR test is performed on a plastic-coated disposable card
 
-1.  **Sample and Controls:** Patient serum or plasma is pipetted into a test circle. It is essential to run **reactive, weakly reactive, and nonreactive controls** with every run to ensure the reagent is working correctly.
-2.  **Antigen Addition:** A precise, calibrated drop of the RPR antigen suspension (containing the charcoal) is added to each circle.
-3.  **Rotation:** The card is placed on a mechanical rotator that is calibrated to rotate at a specific speed (e.g., 100 rpm) for a specific time (e.g., 8 minutes). This standardized rotation provides the gentle mixing needed for the flocculation to occur.
-4.  **Reading:** Immediately after rotation, the card is gently tilted by hand and read macroscopically under a high-intensity light.
-    *   **Reactive:** Large, black clumps are clearly visible in the center of the circle, with a clear background.
-    *   **Weakly Reactive:** Smaller, finer clumps are visible.
-    *   **Nonreactive:** The mixture is a smooth, even, light-gray suspension with no clumping at all.
+1.  **Sample and Controls** Patient serum or plasma is pipetted into a test circle. It is essential to run **reactive, weakly reactive, and nonreactive controls** with every run to ensure the reagent is working correctly
+2.  **Antigen Addition** A precise, calibrated drop of the RPR antigen suspension (containing the charcoal) is added to each circle
+3.  **Rotation** The card is placed on a mechanical rotator that is calibrated to rotate at a specific speed (e.g., 100 rpm) for a specific time (e.g., 8 minutes). This standardized rotation provides the gentle mixing needed for the flocculation to occur
+4.  **Reading** Immediately after rotation, the card is gently tilted by hand and read macroscopically under a high-intensity light
+    *   **Reactive:** Large, black clumps are clearly visible in the center of the circle, with a clear background
+    *   **Weakly Reactive:** Smaller, finer clumps are visible
+    *   **Nonreactive:** The mixture is a smooth, even, light-gray suspension with no clumping at all
 
 ## **Quantitative Testing: Determining the Titer** {-}
 
-The RPR test is not just a screening tool; it is the **primary method for monitoring a patient's response to therapy**. To do this, we must determine a **titer** on any reactive sample.
+The RPR test is not just a screening tool; it is the **primary method for monitoring a patient's response to therapy**. To do this, we must determine a **titer** on any reactive sample
 
-*   **The Procedure:** We perform serial two-fold dilutions of the patient's serum (1:2, 1:4, 1:8, 1:16, etc.) using saline. We then test each dilution just like the undiluted sample.
-*   **The Result:** The titer is reported as the **reciprocal of the highest dilution** that still shows a reactive (or weakly reactive) result.
-*   **Clinical Utility:** A baseline titer is established before treatment. After treatment, a **four-fold drop in titer** (e.g., from 1:64 down to 1:16) is considered evidence of a successful cure. A patient who is successfully treated will eventually become RPR-nonreactive over time.
+*   **The Procedure:** We perform serial two-fold dilutions of the patient's serum (1:2, 1:4, 1:8, 1:16, etc.) using saline. We then test each dilution just like the undiluted sample
+*   **The Result:** The titer is reported as the **reciprocal of the highest dilution** that still shows a reactive (or weakly reactive) result
+*   **Clinical Utility:** A baseline titer is established before treatment. After treatment, a **four-fold drop in titer** (e.g., from 1:64 down to 1:16) is considered evidence of a successful cure. A patient who is successfully treated will eventually become RPR-nonreactive over time
 
 ## **Critical Pitfalls and Limitations** {-}
 
-An MLS must be an expert on the weaknesses of the RPR test.
+An MLS must be an expert on the weaknesses of the RPR test
 
-1.  **Biological False Positives (BFPs):** Because the test detects an antibody to damaged cells (cardiolipin) and not the bacteria itself, many other conditions can cause cellular damage and produce a positive RPR. This is the test's poor **specificity**. Common causes of BFPs include:
-    *   **Autoimmune Diseases:** Especially **Systemic Lupus Erythematosus (SLE)**.
-    *   **Other Infections:** Infectious mononucleosis (EBV), hepatitis, malaria.
-    *   **Physiological States:** Pregnancy, old age.
-    *   This is why **every reactive RPR must be confirmed with a specific treponemal test**.
+1.  **Biological False Positives (BFPs)** Because the test detects an antibody to damaged cells (cardiolipin) and not the bacteria itself, many other conditions can cause cellular damage and produce a positive RPR. This is the test's poor **specificity**. Common causes of BFPs include:
+    *   **Autoimmune Diseases:** Especially **Systemic Lupus Erythematosus (SLE)**
+    *   **Other Infections:** Infectious mononucleosis (EBV), hepatitis, malaria
+    *   **Physiological States:** Pregnancy, old age
+    *   This is why **every reactive RPR must be confirmed with a specific treponemal test**
 
-2.  **The Prozone Phenomenon:** This is a classic serological pitfall that can lead to a **false negative** result in a patient who actually has a very high concentration of reagin antibody (typically seen in secondary syphilis).
-    *   **The Mechanism:** In extreme antibody excess, every antigen site is saturated by a single antibody molecule. This prevents the cross-linking between antigens that is necessary to form the visible clumps, so the test appears nonreactive.
-    *   **The Solution:** If secondary syphilis is strongly suspected but the RPR is negative, the lab must **dilute the sample** (e.g., to 1:8 or 1:16) and retest. This dilutes out the excess antibody, restoring the optimal antigen-antibody ratio and allowing the flocculation to occur, revealing the true positive result.
+2.  **The Prozone Phenomenon** This is a classic serological pitfall that can lead to a **false negative** result in a patient who actually has a very high concentration of reagin antibody (typically seen in secondary syphilis)
+    *   **The Mechanism:** In extreme antibody excess, every antigen site is saturated by a single antibody molecule. This prevents the cross-linking between antigens that is necessary to form the visible clumps, so the test appears nonreactive
+    *   **The Solution:** If secondary syphilis is strongly suspected but the RPR is negative, the lab must **dilute the sample** (e.g., to 1:8 or 1:16) and retest. This dilutes out the excess antibody, restoring the optimal antigen-antibody ratio and allowing the flocculation to occur, revealing the true positive result
 
-3.  **Sensitivity:** The RPR can be negative in very early primary syphilis (before the reagin response has developed) and in very late tertiary syphilis (when the reagin may have waned). Its highest sensitivity is during the secondary stage.
+3.  **Sensitivity** The RPR can be negative in very early primary syphilis (before the reagin response has developed) and in very late tertiary syphilis (when the reagin may have waned). Its highest sensitivity is during the secondary stage

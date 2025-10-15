@@ -1,67 +1,67 @@
 # Treponemal Syphilis {-}
 
-The fundamental principle of a treponemal test is that it detects antibodies directed specifically against antigens of the *Treponema pallidum* bacterium itself. Unlike nontreponemal tests that detect a non-specific surrogate marker (reagin), these assays are designed to be highly **specific**. Their primary role in the traditional testing algorithm is to **confirm** that a reactive RPR result is a true positive due to a syphilis infection and not a biological false positive.
+The fundamental principle of a treponemal test is that it detects antibodies directed specifically against antigens of the *Treponema pallidum* bacterium itself. Unlike nontreponemal tests that detect a non-specific surrogate marker (reagin), these assays are designed to be highly **specific**. Their primary role in the traditional testing algorithm is to **confirm** that a reactive RPR result is a true positive due to a syphilis infection and not a biological false positive
 
-The most critical concept to understand about treponemal tests is this: once a person is infected with syphilis, the antibodies detected by these tests will typically remain present **for the rest of their life**, regardless of successful treatment. They create a permanent "serological scar." This means they **cannot** be used to monitor response to therapy or to distinguish between an active infection and a past, cured infection.
+The most critical concept to understand about treponemal tests is this: once a person is infected with syphilis, the antibodies detected by these tests will typically remain present **for the rest of their life**, regardless of successful treatment. They create a permanent "serological scar." This means they **cannot** be used to monitor response to therapy or to distinguish between an active infection and a past, cured infection
 
 ## **Classic Confirmatory Methods** {-}
 
-These are the historical gold standards. While largely replaced by automated methods in high-volume labs, the principles are essential to know, and they are still used in some reference labs.
+These are the historical gold standards. While largely replaced by automated methods in high-volume labs, the principles are essential to know, and they are still used in some reference labs
 
 ### **1. Fluorescent Treponemal Antibody Absorption (FTA-ABS)** {-}
 
-This was the first widely used confirmatory test and is a classic example of an **Indirect Immunofluorescence Assay (IFA)**.
+This was the first widely used confirmatory test and is a classic example of an **Indirect Immunofluorescence Assay (IFA)**
 
-*   **The Principle:** This test visually detects if a patient's antibody can bind to whole, fixed *T. pallidum* organisms on a microscope slide.
-*   **The Reagents:**
-    *   **Antigen Slide:** A microscope slide with fixed spirochetes of the **Nichols strain** of *T. pallidum*.
-    *   **Sorbent:** A diluent containing an extract of non-pathogenic treponemes. This is the critical "absorption" step. It is used to pre-treat the patient's serum to remove any non-specific, cross-reacting antibodies that might bind to common antigens shared by other spirochetes. This dramatically increases the test's specificity.
-    *   **Conjugate:** A fluorescein-labeled anti-human immunoglobulin.
-*   **The Procedure:**
-    1.  Patient serum is pre-treated with the sorbent.
-    2.  The absorbed serum is incubated on the antigen slide. If anti-*T. pallidum* antibodies are present, they will bind to the spirochetes.
-    3.  The slide is washed, and the fluorescent conjugate is added. It binds to the patient's antibodies.
-    4.  The slide is washed again and viewed under a fluorescent microscope.
-*   **Reading the Result:**
-    *   **Reactive:** The spirochetes will glow a distinct apple-green.
-    *   **Nonreactive:** The spirochetes will be invisible or appear as faint, red outlines (due to the counterstain).
-*   **Limitations:** Highly subjective, technically demanding, and labor-intensive. Reading requires significant expertise.
+*   **The Principle:** This test visually detects if a patient's antibody can bind to whole, fixed *T. pallidum* organisms on a microscope slide
+*   **The Reagents**
+    *   **Antigen Slide:** A microscope slide with fixed spirochetes of the **Nichols strain** of *T. pallidum*
+    *   **Sorbent:** A diluent containing an extract of non-pathogenic treponemes. This is the critical "absorption" step. It is used to pre-treat the patient's serum to remove any non-specific, cross-reacting antibodies that might bind to common antigens shared by other spirochetes. This dramatically increases the test's specificity
+    *   **Conjugate:** A fluorescein-labeled anti-human immunoglobulin
+*   **The Procedure**
+    1.  Patient serum is pre-treated with the sorbent
+    2.  The absorbed serum is incubated on the antigen slide. If anti-*T. pallidum* antibodies are present, they will bind to the spirochetes
+    3.  The slide is washed, and the fluorescent conjugate is added. It binds to the patient's antibodies
+    4.  The slide is washed again and viewed under a fluorescent microscope
+*   **Reading the Result**
+    *   **Reactive:** The spirochetes will glow a distinct apple-green
+    *   **Nonreactive:** The spirochetes will be invisible or appear as faint, red outlines (due to the counterstain)
+*   **Limitations:** Highly subjective, technically demanding, and labor-intensive. Reading requires significant expertise
 
 ### **2. *T. pallidum* Particle Agglutination (TP-PA) & MHATP** {-}
 
-This category of tests, including the Microhemagglutination Assay for *T. pallidum* (MHATP), replaced the FTA-ABS as the confirmatory test of choice for many years because they are much easier to perform and read.
+This category of tests, including the Microhemagglutination Assay for *T. pallidum* (MHATP), replaced the FTA-ABS as the confirmatory test of choice for many years because they are much easier to perform and read
 
-*   **The Principle:** This is a passive agglutination assay. We are using microscopic particles as carriers for the treponemal antigens.
-*   **The Reagents:**
-    *   **Antigen Particles:** Gelatin particles (in TP-PA) or red blood cells (in MHATP) that have been coated with antigens extracted from *T. pallidum*.
-    *   **Control Particles:** Particles coated with no treponemal antigens, used to check for non-specific agglutination.
-*   **The Procedure:**
-    1.  The patient's diluted serum is added to the wells of a microtiter plate containing the antigen-coated particles.
-    2.  If the patient's serum contains specific anti-treponemal antibodies, they will bind to the antigens on multiple particles, cross-linking them and forming a lattice structure.
-    3.  The plate is incubated, allowing the particles to settle.
-*   **Reading the Result:** The interpretation is based on the settling pattern in the U-bottom well.
-    *   **Reactive:** The cross-linked particles form a smooth, flat "mat" or "lawn" covering the bottom of the well.
-    *   **Nonreactive:** The particles are not cross-linked, so they roll down the sides of the well and form a tight, compact "button" or ring at the bottom.
-*   **Advantages:** Objective, easy-to-read endpoint. More specific than early FTA-ABS tests.
+*   **The Principle:** This is a passive agglutination assay. We are using microscopic particles as carriers for the treponemal antigens
+*   **The Reagents**
+    *   **Antigen Particles:** Gelatin particles (in TP-PA) or red blood cells (in MHATP) that have been coated with antigens extracted from *T. pallidum*
+    *   **Control Particles:** Particles coated with no treponemal antigens, used to check for non-specific agglutination
+*   **The Procedure**
+    1.  The patient's diluted serum is added to the wells of a microtiter plate containing the antigen-coated particles
+    2.  If the patient's serum contains specific anti-treponemal antibodies, they will bind to the antigens on multiple particles, cross-linking them and forming a lattice structure
+    3.  The plate is incubated, allowing the particles to settle
+*   **Reading the Result:** The interpretation is based on the settling pattern in the U-bottom well
+    *   **Reactive:** The cross-linked particles form a smooth, flat "mat" or "lawn" covering the bottom of the well
+    *   **Nonreactive:** The particles are not cross-linked, so they roll down the sides of the well and form a tight, compact "button" or ring at the bottom
+*   **Advantages:** Objective, easy-to-read endpoint. More specific than early FTA-ABS tests
 
 ## **Modern Automated Treponemal Tests: EIA and CLIA** {-}
 
 These are the methods that dominate modern syphilis testing, especially in the context of the "reverse algorithm."
 
-*   **The Principle:** These are **Enzyme Immunoassays (EIA)** or **Chemiluminescence Immunoassays (CLIA)** performed on high-throughput automated analyzers. They use recombinant *T. pallidum* antigens (specific proteins like TpN17 and TpN47) rather than whole bacterial extracts, which further improves specificity.
-*   **The Procedure:** The format is typically a sandwich or capture ELISA. For example, wells of a plate or microbeads are coated with treponemal antigens. Patient serum is added, and if specific antibodies are present, they bind. An enzyme-labeled secondary antibody is then added, followed by a substrate that produces a measurable color (EIA) or light (CLIA) signal.
-*   **Advantages:**
-    *   **Automation:** Can be fully automated for high-volume screening.
-    *   **Objectivity:** Results are read by a spectrophotometer or luminometer, eliminating subjective interpretation.
-    *   **High Sensitivity:** Can detect very low levels of antibody, making them excellent screening tools.
-*   **Role in the Reverse Algorithm:** Because these tests are so sensitive and automatable, many labs now use a treponemal EIA/CLIA as their **initial screening test**. If it is reactive, they then perform a quantitative RPR to determine the disease's activity and titer. This approach is better at detecting very early or old, latent syphilis but can create confusing results (e.g., Trep +, RPR -) that require further testing.
+*   **The Principle:** These are **Enzyme Immunoassays (EIA)** or **Chemiluminescence Immunoassays (CLIA)** performed on high-throughput automated analyzers. They use recombinant *T. pallidum* antigens (specific proteins like TpN17 and TpN47) rather than whole bacterial extracts, which further improves specificity
+*   **The Procedure:** The format is typically a sandwich or capture ELISA. For example, wells of a plate or microbeads are coated with treponemal antigens. Patient serum is added, and if specific antibodies are present, they bind. An enzyme-labeled secondary antibody is then added, followed by a substrate that produces a measurable color (EIA) or light (CLIA) signal
+*   **Advantages**
+    *   **Automation:** Can be fully automated for high-volume screening
+    *   **Objectivity:** Results are read by a spectrophotometer or luminometer, eliminating subjective interpretation
+    *   **High Sensitivity:** Can detect very low levels of antibody, making them excellent screening tools
+*   **Role in the Reverse Algorithm:** Because these tests are so sensitive and automatable, many labs now use a treponemal EIA/CLIA as their **initial screening test**. If it is reactive, they then perform a quantitative RPR to determine the disease's activity and titer. This approach is better at detecting very early or old, latent syphilis but can create confusing results (e.g., Trep +, RPR -) that require further testing
 
 ## **Putting It All Together: The Clinical Interpretation** {-}
 
-The power of syphilis serology comes from using nontreponemal and treponemal tests together.
+The power of syphilis serology comes from using nontreponemal and treponemal tests together
 
-*   **RPR Reactive, TP-PA Reactive:** Consistent with an active or recent, untreated syphilis infection.
+*   **RPR Reactive, TP-PA Reactive:** Consistent with an active or recent, untreated syphilis infection
 *   **RPR Nonreactive, TP-PA Reactive:** This is a classic pattern. It usually means one of two things:
-    1.  **A successfully treated past infection.** The RPR became nonreactive after treatment, but the treponemal antibody "scar" remains.
-    2.  Very early or very late-stage syphilis, where the reagin response is weak or absent.
-*   **RPR Reactive, TP-PA Nonreactive:** This indicates a **biological false positive RPR**. The patient does not have syphilis; their reactive RPR is due to another condition (like lupus or pregnancy). This perfectly illustrates the confirmatory role of the treponemal test.
+    1.  **A successfully treated past infection.** The RPR became nonreactive after treatment, but the treponemal antibody "scar" remains
+    2.  Very early or very late-stage syphilis, where the reagin response is weak or absent
+*   **RPR Reactive, TP-PA Nonreactive:** This indicates a **biological false positive RPR**. The patient does not have syphilis; their reactive RPR is due to another condition (like lupus or pregnancy). This perfectly illustrates the confirmatory role of the treponemal test

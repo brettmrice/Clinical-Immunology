@@ -69,13 +69,3 @@ IgD remains the most enigmatic of the immunoglobulins in terms of its serum func
 *   **Function**
     *   **B-Cell Receptor:** Found in low concentrations in the serum, its primary function is to act as a surface receptor on mature, naive B-lymphocytes, alongside IgM. It helps signal the B-cell to become activated when it encounters its specific antigen
 *   **Lab Relevance:** IgD has very limited clinical diagnostic use in a routine serology lab
-
-## **Key Terms** {-}
-
-*   **Immunoglobulin (Ig):** A protein produced by plasma cells that is designed to bind to a specific antigen; also known as an antibody
-*   **Fab Region (Fragment, antigen-binding):** The portion of the antibody molecule (the "arms" of the Y) that contains the variable region and binds to the antigen
-*   **Fc Region (Fragment, crystallizable):** The constant portion of the antibody molecule (the "stem" of the Y) that determines its class and biological function, such as complement activation
-*   **Isotype:** The designation for each of the five different classes of immunoglobulins (IgG, IgA, IgM, IgE, IgD), based on the type of heavy chain
-*   **J Chain:** A small protein that links immunoglobulin monomers together to form multimers, specifically IgM (a pentamer) and secretory IgA (a dimer)
-*   **Secretory Component:** A protein acquired by IgA as it passes through epithelial cells into secretions. It protects the IgA molecule from enzymatic digestion
-*   **Opsonization:** The process of coating a pathogen with antibodies (primarily IgG) or complement proteins to enhance its phagocytosis by immune cells

@@ -65,13 +65,3 @@ If you zoom in even further on the heavy and light chains, you'll see they are c
     *   **Papain:** digestion cleaves the antibody *above* the hinge, yielding **two separate Fab fragments** and **one Fc fragment**
     *   **Pepsin:** digestion cleaves *below* the hinge, yielding one piece where the two arms are still linked, called **F(ab')<sub>2</sub>**, and a degraded Fc fragment. The F(ab')<sub>2</sub> fragment can still precipitate antigens, but it cannot activate complement
 *   **Multiple Myeloma:** In this cancer of plasma cells, a single clone proliferates wildly, producing a massive amount of one specific type of antibody (a monoclonal protein). Sometimes, only light chains are overproduced, which are small enough to be filtered by the kidneys and can be detected in the urine as **Bence Jones proteins**. Lab tests measuring the kappa/lambda light chain ratio in the blood are crucial for diagnosis and monitoring
-
-## **Key Terms** {-}
-
-*   **Heavy Chain:** The larger of the two types of polypeptide chains in an immunoglobulin; its constant region defines the antibody's class (isotype - G, A, M, E, or D)
-*   **Light Chain:** The smaller of the two types of polypeptide chains; it exists in one of two forms, kappa (κ) or lambda (λ)
-*   **Fab Region (Fragment, antigen-binding):** The two "arms" of the antibody monomer that contain the variable regions responsible for binding specifically to an antigen
-*   **Fc Region (Fragment, crystallizable):** The "stem" of the antibody monomer, composed only of constant heavy chain domains, which dictates the biological function of the molecule
-*   **Hinge Region:** The flexible amino acid segment between the Fab and Fc regions that allows the Fab arms to move, facilitating antigen binding
-*   **Disulfide Bonds:** Covalent chemical bonds between sulfur atoms that hold the heavy and light polypeptide chains together to form a functional antibody molecule
-*   **Variable Region:** The N-terminal portion of the heavy and light chains with a highly variable amino acid sequence, which forms the specific antigen-binding site (paratope)

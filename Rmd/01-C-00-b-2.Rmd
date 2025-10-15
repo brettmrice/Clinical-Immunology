@@ -70,13 +70,4 @@ These methods use a reporter molecule (a "label") to generate a signal, allowing
         2.  **Blotting** The separated proteins are transferred ("blotted") from the gel onto a stable nitrocellulose membrane
         3.  **Immunoassay** The membrane strip is incubated with patient serum. If the patient has antibodies, they will bind to their specific protein bands. The strip is then washed and an enzyme-labeled anti-human antibody is added, followed by a substrate that creates colored bands exactly where the patient's antibodies have bound
     *   **Interpretation:** A positive result requires that the patient's serum reacts with a specific pattern of protein bands (e.g., p24 and gp41 for HIV), making it a very specific confirmatory test
-
-## **Key Terms** {-}
-
-*   **Ouchterlony:** A qualitative immunodiffusion technique in gel used to compare antigens based on patterns of identity, non-identity, or partial identity
-*   **Radial Immunodiffusion (RID):** A quantitative immunodiffusion technique where antigen diffuses into an antibody-containing gel, and the resulting precipitate ring's diameter is proportional to the antigen concentration
-*   **Agglutination Inhibition:** A competitive immunoassay where a positive result is indicated by the *absence* of agglutination, signifying that the patient's antigen has neutralized the reagent antibody
-*   **Sandwich Assay:** An immunoassay format (commonly ELISA) designed to detect antigen, where the antigen is "sandwiched" between a capture antibody on a solid phase and a second, labeled detection antibody
-*   **Western Blot:** A confirmatory immunoassay that separates antigens by electrophoresis, transfers them to a membrane, and then identifies which specific protein bands a patient's antibodies react with
-*   **Solid Phase:** An inert surface (like a microtiter well or a latex bead) to which antigens or antibodies are attached, facilitating the separation of bound and unbound reactants during washing steps in an immunoassay
-*   **Nephelometry:** An automated, quantitative method that measures the concentration of an analyte by detecting the amount of light that is scattered by the antigen-antibody complexes formed in a solution
+    

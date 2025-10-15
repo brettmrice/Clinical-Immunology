@@ -1,78 +1,78 @@
 # Disease Correlation {-}
 
-The art of correlation is about pattern recognition. No single test result tells the whole story. It's the combination of findings from screening tests, confirmatory tests, quantitative levels, and specific markers that paints a clear picture of the patient's condition.
+The art of correlation is about pattern recognition. No single test result tells the whole story. It's the combination of findings from screening tests, confirmatory tests, quantitative levels, and specific markers that paints a clear picture of the patient's condition
 
 ## **Signature of an Acute Viral Infection** {-}
 
-This is the most fundamental pattern in infectious disease serology. The principle applies to many viruses (Hepatitis A, Rubella, Measles, primary EBV, etc.).
+This is the most fundamental pattern in infectious disease serology. The principle applies to many viruses (Hepatitis A, Rubella, Measles, primary EBV, etc.)
 
-*   **The Key Finding:** The presence of **IgM** antibody specific to the pathogen.
-*   **The Full Pattern:**
+*   **The Key Finding:** The presence of **IgM** antibody specific to the pathogen
+*   **The Full Pattern**
     *   **Specific IgM:** POSITIVE
-    *   **Specific IgG:** May be NEGATIVE (if very early in the infection) or POSITIVE (as it begins to rise alongside IgM).
-    *   **Antigen/Molecular Test (if available):** Often POSITIVE, as the pathogen is actively replicating.
-*   **The Story:** The immune system's "first responders" (IgM) are on the scene, and the virus itself is likely present. This signals a current or very recent infection.
-*   **Example: Acute Hepatitis A:**
+    *   **Specific IgG:** May be NEGATIVE (if very early in the infection) or POSITIVE (as it begins to rise alongside IgM)
+    *   **Antigen/Molecular Test (if available):** Often POSITIVE, as the pathogen is actively replicating
+*   **The Story:** The immune system's "first responders" (IgM) are on the scene, and the virus itself is likely present. This signals a current or very recent infection
+*   **Example: Acute Hepatitis A**
     *   Anti-HAV IgM: **Positive**
     *   Total Anti-HAV (IgG + IgM): **Positive**
 
 ## **Signature of a Past Infection or Vaccination (Immunity)** {-}
 
-This pattern tells us that the immune system has a long-term memory of a pathogen and is prepared to fight it off quickly if encountered again.
+This pattern tells us that the immune system has a long-term memory of a pathogen and is prepared to fight it off quickly if encountered again
 
-*   **The Key Finding:** The presence of **IgG** antibody in the absence of IgM.
-*   **The Full Pattern:**
+*   **The Key Finding:** The presence of **IgG** antibody in the absence of IgM
+*   **The Full Pattern**
     *   **Specific IgM:** NEGATIVE
     *   **Specific IgG:** POSITIVE
-    *   **Antigen/Molecular Test:** NEGATIVE, as the pathogen has been cleared.
-*   **The Story:** The battle is long over, but the "veteran soldiers" (IgG) remain on guard, providing lasting protection.
-*   **Example: Immunity to Rubella from the MMR Vaccine:**
+    *   **Antigen/Molecular Test:** NEGATIVE, as the pathogen has been cleared
+*   **The Story:** The battle is long over, but the "veteran soldiers" (IgG) remain on guard, providing lasting protection
+*   **Example: Immunity to Rubella from the MMR Vaccine**
     *   Anti-Rubella IgG: **Positive**
     *   Anti-Rubella IgM: **Negative**
 
 ## **Signature of Chronic Hepatitis B Infection** {-}
 
-The serology of Hepatitis B is complex and is a classic board exam topic. The "chronic carrier" state has a very specific signature.
+The serology of Hepatitis B is complex and is a classic board exam topic. The "chronic carrier" state has a very specific signature
 
-*   **The Key Finding:** The persistent presence of the **surface antigen (HBsAg)** for more than 6 months.
-*   **The Full Pattern:**
-    *   **HBsAg:** POSITIVE (This means the virus is still present and replicating).
-    *   **Total Anti-HBc:** POSITIVE (This proves exposure to the actual virus, not the vaccine).
-    *   **Anti-HBc IgM:** NEGATIVE (The infection is not acute).
-    *   **Anti-HBs:** NEGATIVE (This is crucial. The patient has failed to produce the protective surface antibody, which is why the infection has become chronic).
-*   **The Story:** The body has been exposed to the virus and is trying to fight it (Anti-HBc is positive), but it has failed to make the winning antibody (Anti-HBs) and cannot clear the virus itself (HBsAg remains positive).
+*   **The Key Finding:** The persistent presence of the **surface antigen (HBsAg)** for more than 6 months
+*   **The Full Pattern**
+    *   **HBsAg:** POSITIVE (This means the virus is still present and replicating)
+    *   **Total Anti-HBc:** POSITIVE (This proves exposure to the actual virus, not the vaccine)
+    *   **Anti-HBc IgM:** NEGATIVE (The infection is not acute)
+    *   **Anti-HBs:** NEGATIVE (This is crucial. The patient has failed to produce the protective surface antibody, which is why the infection has become chronic)
+*   **The Story:** The body has been exposed to the virus and is trying to fight it (Anti-HBc is positive), but it has failed to make the winning antibody (Anti-HBs) and cannot clear the virus itself (HBsAg remains positive)
 
 ## **Signature of Systemic Lupus Erythematosus (SLE)** {-}
 
-Diagnosing SLE is a process of assembling evidence. The serological findings are the cornerstone of this evidence.
+Diagnosing SLE is a process of assembling evidence. The serological findings are the cornerstone of this evidence
 
-*   **The Key Findings:** A positive screening ANA with the presence of highly specific autoantibodies (anti-dsDNA or anti-Sm).
-*   **The Full Pattern:**
-    *   **ANA by IFA:** POSITIVE, usually with a high titer (e.g., ≥1:160) and often a homogeneous or speckled pattern.
-    *   **Anti-dsDNA:** POSITIVE (Highly specific for SLE and often correlates with kidney disease).
-    *   **Anti-Sm:** POSITIVE (The most specific marker for SLE; its presence is virtually diagnostic).
-    *   **Complement Levels (C3, C4):** Often DECREASED during a disease flare, as complement is being consumed by immune complex deposition.
-*   **The Story:** The patient's immune system is mounting a broad attack on nuclear components (positive ANA). More specifically, this attack is targeting dsDNA and/or Sm antigen, confirming the diagnosis. The low complement levels provide evidence of the ongoing collateral damage being caused by immune complexes.
+*   **The Key Findings:** A positive screening ANA with the presence of highly specific autoantibodies (anti-dsDNA or anti-Sm)
+*   **The Full Pattern**
+    *   **ANA by IFA:** POSITIVE, usually with a high titer (e.g., ≥1:160) and often a homogeneous or speckled pattern
+    *   **Anti-dsDNA:** POSITIVE (Highly specific for SLE and often correlates with kidney disease)
+    *   **Anti-Sm:** POSITIVE (The most specific marker for SLE; its presence is virtually diagnostic)
+    *   **Complement Levels (C3, C4):** Often DECREASED during a disease flare, as complement is being consumed by immune complex deposition
+*   **The Story:** The patient's immune system is mounting a broad attack on nuclear components (positive ANA). More specifically, this attack is targeting dsDNA and/or Sm antigen, confirming the diagnosis. The low complement levels provide evidence of the ongoing collateral damage being caused by immune complexes
 
 ## **Signature of Rheumatoid Arthritis (RA)** {-}
 
-The modern diagnosis of RA relies on two key autoantibody markers.
+The modern diagnosis of RA relies on two key autoantibody markers
 
-*   **The Key Finding:** Positivity for both Rheumatoid Factor and, more importantly, Anti-CCP.
-*   **The Full Pattern:**
-    *   **Rheumatoid Factor (RF):** POSITIVE (Indicates the presence of autoantibodies against IgG, but is not specific).
-    *   **Anti-CCP (Anti-Cyclic Citrullinated Peptide):** POSITIVE (This antibody is highly specific for RA).
-*   **The Story:** The presence of RF is suggestive, but its poor specificity makes it weak evidence on its own. The addition of a positive Anti-CCP, a much more specific marker, makes the diagnosis of RA highly probable. Patients positive for both often have a more aggressive disease course.
+*   **The Key Finding:** Positivity for both Rheumatoid Factor and, more importantly, Anti-CCP
+*   **The Full Pattern**
+    *   **Rheumatoid Factor (RF):** POSITIVE (Indicates the presence of autoantibodies against IgG, but is not specific)
+    *   **Anti-CCP (Anti-Cyclic Citrullinated Peptide):** POSITIVE (This antibody is highly specific for RA)
+*   **The Story:** The presence of RF is suggestive, but its poor specificity makes it weak evidence on its own. The addition of a positive Anti-CCP, a much more specific marker, makes the diagnosis of RA highly probable. Patients positive for both often have a more aggressive disease course
 
 ## **Signature of Primary Biliary Cholangitis (PBC)** {-}
 
-This is a classic organ-specific autoimmune disease of the liver, and its serological signature is one of the most specific in all of immunology.
+This is a classic organ-specific autoimmune disease of the liver, and its serological signature is one of the most specific in all of immunology
 
-*   **The Key Finding:** The presence of **Anti-Mitochondrial Antibody (AMA)**.
-*   **The Full Pattern:**
-    *   **AMA:** POSITIVE, usually at a high titer.
-    *   **ANA:** Can also be positive in about 50% of cases, often with a centromere or speckled pattern.
-    *   **Liver Chemistry:** Markedly elevated Alkaline Phosphatase (ALP), a sign of cholestasis (impaired bile flow).
-*   **The Story:** The immune system is targeting the mitochondria within the cells lining the small bile ducts of the liver. The presence of AMA is the "smoking gun" for this specific autoimmune attack. Over 95% of patients with PBC are AMA-positive, making this a cornerstone of diagnosis.
+*   **The Key Finding:** The presence of **Anti-Mitochondrial Antibody (AMA)**
+*   **The Full Pattern**
+    *   **AMA:** POSITIVE, usually at a high titer
+    *   **ANA:** Can also be positive in about 50% of cases, often with a centromere or speckled pattern
+    *   **Liver Chemistry:** Markedly elevated Alkaline Phosphatase (ALP), a sign of cholestasis (impaired bile flow)
+*   **The Story:** The immune system is targeting the mitochondria within the cells lining the small bile ducts of the liver. The presence of AMA is the "smoking gun" for this specific autoimmune attack. Over 95% of patients with PBC are AMA-positive, making this a cornerstone of diagnosis
 
-The ability to look at a page of lab data and see these "signatures" is the goal. It requires you to integrate knowledge of immunology, pathophysiology, and laboratory methodology. This skill is what makes you an indispensable consultant to the physicians you serve.
+The ability to look at a page of lab data and see these "signatures" is the goal. It requires you to integrate knowledge of immunology, pathophysiology, and laboratory methodology. This skill is what makes you an indispensable consultant to the physicians you serve

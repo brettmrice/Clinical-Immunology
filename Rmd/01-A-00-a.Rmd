@@ -43,14 +43,3 @@ This entire concept is the basis for infectious disease serology. When a physici
 *   **Power of Paired Sera:** This is the gold standard for serologic diagnosis. We test two samples from the patient: an "acute" sample drawn when they are sick and a "convalescent" sample drawn 2-4 weeks later. A **four-fold rise in the IgG titer** between these two samples is diagnostic proof of a current infection. It's like taking a snapshot of the secondary response in action as the patient's immune system ramps up production
 
 *   **Vaccination:** The principle of vaccination is to intentionally induce a primary immune response by exposing the body to a safe, non-infectious form of a pathogen (an antigen). This creates a pool of memory cells, so that if the body is ever exposed to the *real* pathogen, it can launch a devastating secondary response and eliminate the threat before it can cause disease
-
-
-## **Key Terms** {-}
-
-*   **Titer:** A measurement of the concentration of a specific antibody in a patient's serum, usually expressed as the reciprocal of the highest dilution that still shows a positive reaction
-*   **Primary Response:** The relatively slow, initial immune response that occurs on the first exposure to a specific antigen, characterized by the initial production of IgM followed by IgG
-*   **Secondary (Anamnestic) Response:** The rapid and robust immune response that occurs on subsequent exposures to a previously encountered antigen, characterized by a predominant and high-titer IgG response
-*   **Memory Cells:** Long-lived B and T lymphocytes that are "primed" by a primary infection and are capable of mounting a swift and potent secondary response upon re-exposure
-*   **Class Switching:** The process by which an activated B-cell changes the class of antibody it produces, from IgM to IgG, IgA, or IgE, without changing the antigen-binding specificity
-*   **Affinity Maturation:** The process during an immune response where the antibodies produced develop a progressively higher affinity (binding strength) for the antigen; a hallmark of the secondary response
-*   **Clonal Selection:** The fundamental principle where a specific antigen binds to and activates only the B or T-cell with a receptor that recognizes it, causing that cell to proliferate into a clone of identical, antigen-specific cells
