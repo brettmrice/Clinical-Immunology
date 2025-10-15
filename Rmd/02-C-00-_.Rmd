@@ -1,4 +1,4 @@
-# Monoclonal Gammopathies {-}
+# Immunoproliferative Diseases {-}
 
 Let's shift our focus from an immune system that is over-reacting (hypersensitivity) or misguided (autoimmunity) to one where the immune cells themselves become the enemy. This is the realm of **immunoproliferative diseases**, which are essentially cancers of the immune system
 
