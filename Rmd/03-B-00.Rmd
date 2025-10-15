@@ -1,0 +1,51 @@
+# HLA Typing {-}
+
+Let's build a solid foundation on one of the most critical laboratory functions in all of transplantation medicine: **HLA typing**. This is where we, in the lab, act as immunological matchmakers, ensuring that a life-saving gift from a donor isn't seen as a deadly threat by the recipient's body
+
+## **Body's "Cellular ID Card"** {-}
+
+Before we get into the "how," let's start with the "what." Every person's cells carry a unique set of protein markers on their surface that essentially scream "self!" to the immune system. Think of it as a highly specific, personal ID card that is constantly being checked by patrolling immune cells, especially T-lymphocytes. This system of protein markers, encoded by a specific set of genes, is called the **Human Leukocyte Antigen**, or **HLA**, system. It is the human version of what is known more broadly in immunology as the **Major Histocompatibility Complex (MHC)**
+
+As long as a patrolling T-cell sees the correct, familiar HLA on a cell, it moves on. But the moment it encounters a cell with an unfamiliar HLA—like on a transplanted organ—all the alarms go off. The T-cell identifies it as "non-self," a dangerous intruder, and initiates a powerful immune attack to destroy it. Our primary goal in the HLA lab is to minimize this conflict by finding a donor whose HLA proteins look as similar as possible to the recipient's
+
+## **Genetics of Identity: Why Matching is So Hard** {-}
+
+The reason finding a perfect match is so challenging lies in the genetics of the HLA system, located on the short arm of chromosome 6. This system is remarkable for two main reasons:
+
+*   **It is Polygenic:** There isn't just one HLA gene. There are several different genes, grouped into two major classes, that we are concerned with in transplantation
+*   **It is Extremely Polymorphic:** "Polymorphic" is a fancy way of saying that for each of these genes, there are hundreds or even thousands of different versions, or **alleles**, in the human population. This incredible diversity is great for us as a species, as it means we can respond to a huge variety of pathogens. But it's a major headache for transplantation, making it statistically very difficult to find an unrelated person with the same set of HLA molecules
+
+### **Two Classes of HLA Molecules** {-}
+
+It is absolutely critical to understand the two different classes of HLA molecules, as they have different jobs and are found on different cells
+
+*   **MHC Class I (The "Report to CD8" System)**
+    *   **The Genes:** The main Class I genes are **HLA-A, HLA-B, and HLA-C**
+    *   **Location:** These proteins are found on the surface of **all nucleated cells** in the body. This is key. It means that the cells of a donated kidney, lung, or heart are all displaying Class I HLA
+    *   **Function:** Their day job is to present *internal* (endogenous) proteins, like pieces of a virus, to **CD8+ cytotoxic T-cells**. In transplantation, they are the primary targets that the recipient's cytotoxic T-cells recognize during the rejection of a solid organ
+
+*   **MHC Class II (The "Report to CD4" System)**
+    *   **The Genes:** The main Class II genes are **HLA-DP, HLA-DQ, and HLA-DR**
+    *   **Location:** These are more exclusive. They are only found on "professional" **Antigen-Presenting Cells (APCs)**, like B-cells, macrophages, and dendritic cells
+    *   **Function:** Their job is to present *external* (exogenous) proteins that have been engulfed by the cell to **CD4+ helper T-cells**. These helper T-cells are the "generals" of the immune response. In a hematopoietic stem cell transplant, a mismatch in Class II molecules is particularly dangerous, as it can powerfully activate the donor's T-helper cells and drive severe Graft-versus-Host Disease
+
+## **The "How": Laboratory Methods for HLA Typing** {-}
+
+The evolution of HLA typing methods is a perfect story of technology moving from the biological to the molecular
+
+### **The Past: Serological Typing** {-}
+
+The original method for HLA typing was a biological assay called the **Complement-Dependent Cytotoxicity (CDC) test**
+
+*   **The Principle:** This was a clever but low-resolution method. We would take a patient's lymphocytes and distribute them into a tray with many wells. Each well contained a known, specific anti-HLA antibody (harvested from multi-gravid women, who are naturally exposed to their partners' HLA through pregnancy). If the patient's cells had the HLA antigen that matched the antibody in the well, the antibody would bind. We would then add complement. If the antibody was bound, it would activate the complement cascade, which would punch holes in the cell membrane and kill the cell. Finally, a dye was added that could only enter dead cells
+*   **The Result:** If the cells in a well turned color, it meant they were dead, which meant the patient was positive for that specific HLA antigen. It was ingenious, but it could only identify broad antigen groups, not the subtle but important differences between alleles
+
+### **The Present: Molecular (DNA-Based) Typing** {-}
+
+Today, we have moved almost entirely to DNA-based methods, which are far more precise and don't require live cells. Instead of looking for the protein on the cell surface, we look directly at the genetic code that creates it
+
+*   **Low-Resolution Molecular Typing:** This is often done using a PCR-based method called **Sequence-Specific Primers (SSP)**. Think of it as asking a series of highly specific "yes or no" questions. We use PCR primer sets that will only amplify a specific HLA allele or group of alleles. If we get a PCR product, the answer is "yes," the patient has that allele. This level of typing is often sufficient for solid organ transplantation and gives us a result equivalent to serology (e.g., HLA-A2)
+
+*   **High-Resolution Molecular Typing:** This is the gold standard, especially for **hematopoietic stem cell transplants**, where the match must be as perfect as possible. This involves using **DNA sequencing** to read the HLA gene's sequence base by base. This provides the most detailed information possible and can distinguish between two alleles that produce proteins differing by only a single amino acid (e.g., telling the difference between HLA-B\*44:02 and HLA-B\*44:03). This level of detail is critical for preventing Graft-versus-Host Disease
+
+When we are done, we provide a report that details the patient's and potential donor's HLA alleles. For a stem cell transplant, a "10/10 match" means the donor and recipient are identical at the HLA-A, -B, -C, -DR, and -DQ loci, giving the patient the very best chance for a successful, complication-free outcome

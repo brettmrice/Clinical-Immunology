@@ -1,0 +1,66 @@
+# (PART\*) Transplantation {-}
+
+# Graft-versus-Host Disease {-}
+
+Up to this point, when we've thought about transplantation, we've focused on one central conflict: **graft rejection**. This is when the recipient's (host's) immune system recognizes the donated organ (graft) as foreign and launches an attack to destroy it. It's the host attacking the graft
+
+**Graft-versus-Host Disease (GVHD)** flips this entire script on its head. This is the immunological opposite. GVHD is a devastating complication where the donated tissue contains immunocompetent cells that recognize the *recipient's entire body* as foreign and launch a widespread, systemic attack against it. It is the **graft attacking the host**
+
+Think of it as the ultimate Trojan Horse. A life-saving gift (the graft) is brought into the city (the host's body). But hidden inside this gift are enemy soldiers (the graft's immune cells) who, once inside, emerge and begin to attack the city and its citizens from within
+
+## **The Perfect Storm: Three Requirements for GVHD** {-}
+
+GVHD doesn't just happen in any transplant. A very specific set of conditions must be met for this immunological civil war to break out
+
+1.  **The Graft Must Contain Immunocompetent Cells** The donated tissue must contain a viable population of immune cells, specifically **T-lymphocytes**. This is the "army" that will mount the attack. This is why GVHD is not a concern in solid organ transplants like a kidney or heart, which contain very few T-cells. The primary source of immunocompetent grafts is **hematopoietic stem cells**
+
+2.  **The Host Must Be Immunoincompetent** The recipient's immune system must be unable to fight back and destroy the attacking donor T-cells. If the host had a fully functional immune system, it would simply recognize the donor T-cells as foreign and eliminate them (this would be a form of graft rejection)
+
+3.  **The Host Must Appear "Foreign" to the Graft** The recipient's cells must express HLA (Human Leukocyte Antigen) antigens that are different from the donor's HLA antigens. The donor T-cells see these mismatched HLA molecules on the host's tissues and recognize them as a threat that must be eliminated
+
+## **The Main Battleground: Hematopoietic Stem Cell Transplantation (HSCT)** {-}
+
+The clinical setting where all three of these conditions are perfectly met is an **allogeneic hematopoietic stem cell transplant** (HSCT), also known as a bone marrow transplant
+
+*   **The Procedure:** HSCT is used to treat diseases like leukemia or lymphoma. First, the patient's own cancerous bone marrow and entire immune system are intentionally destroyed using high-dose chemotherapy and/or radiation. This process is called **myeloablative conditioning**
+*   **Fulfilling the Conditions**
+    *   The myeloablative conditioning makes the host profoundly **immunoincompetent** (Requirement #2)
+    *   The patient is then infused with hematopoietic stem cells from a healthy donor. This graft is rich in **immunocompetent donor T-cells** (Requirement #1)
+    *   Unless the donor and recipient are identical twins, there will always be some degree of **HLA disparity**, making the host's tissues look foreign to the donor T-cells (Requirement #3)
+
+This is why GVHD is the most significant and feared complication of HSCT
+
+## **The Clinical Picture: Triad of Targets & Timing** {-}
+
+The attack from the donor T-cells is not random. It has a characteristic pattern, typically targeting three main organ systems: the **skin**, the **liver**, and the **gastrointestinal (GI) tract**. The timing of the disease also allows us to classify it into two distinct forms
+
+### **Acute GVHD (aGVHD)** {-}
+
+*   **Timing:** Develops within the first 100 days post-transplant
+*   **Mechanism:** This is a direct, fiery assault caused by the mature, activated donor T-cells that were infused with the original stem cell graft. They recognize the host's HLA antigens as foreign and unleash a "cytokine storm" that causes rapid and severe tissue damage
+*   **Symptoms**
+    *   **Skin:** Begins as a faint rash, but can progress to severe, burn-like blistering
+    *   **Liver:** Destruction of bile ducts leads to jaundice (yellowing of the skin) and elevated liver enzymes
+    *   **GI Tract:** Causes severe, profuse, watery or bloody diarrhea and cramping
+
+### **Chronic GVHD (cGVHD)** {-}
+
+*   **Timing:** Develops later, typically after 100 days post-transplant
+*   **Mechanism:** This is a more complex, slow-burning process. It is caused by donor T-cells that developed *after* the transplant. These new T-cells matured in the host's thymus but were not properly "educated" to be tolerant of the host's tissues. The resulting disease looks less like an acute assault and more like a systemic autoimmune disease, often with fibrosis (scarring) of tissues
+*   **Symptoms:** Can affect almost any organ, leading to dry eyes and mouth (like Sjögren's), skin tightening (like scleroderma), and lung and liver problems
+
+## **The Role of the Clinical Laboratory: Prevention & Monitoring** {-}
+
+The lab, particularly the **HLA or Histocompatibility Lab**, is the first and most important line of defense against GVHD
+
+### **Prevention (Pre-Transplant)** {-}
+
+*   **HLA Typing:** This is the most critical step. We use molecular methods (like PCR-based sequence-specific priming or sequencing) to determine the HLA alleles of both the potential donor and the recipient. The goal is to find a donor who is a **perfect match** at the major HLA loci: **HLA-A, HLA-B, HLA-C (Class I)** and especially **HLA-DRB1 (Class II)**. The closer the HLA match, the less "foreign" the host will look to the graft, and the lower the risk of severe GVHD
+
+*   **T-Cell Depletion:** In some cases, the stem cell product can be processed in the lab *before* infusion to physically remove a large portion of the T-cells. This directly removes the "soldiers" from the Trojan Horse. While effective at preventing GVHD, it can increase the risk of graft failure and disease relapse
+
+### **Diagnosis and Monitoring (Post-Transplant)** {-}
+
+*   **Chemistry Monitoring:** The chemistry lab plays a vital role in monitoring for signs of GVHD. We track **bilirubin** and liver enzymes like **ALT** and **AST** to detect liver involvement. We also monitor electrolytes to manage the severe dehydration caused by GI disease
+
+*   **Chimerism Analysis:** This is a sophisticated molecular test used to monitor the success of the transplant. "Chimerism" refers to the presence of both donor and recipient cells in the patient. We use a technique that analyzes **Short Tandem Repeats (STRs)**, which are unique genetic markers, to determine the percentage of hematopoietic cells in the patient that are of donor origin versus those that are of recipient origin. Successful engraftment is confirmed by seeing a high percentage of donor cells. This analysis is critical for managing the patient's immunosuppression and can help provide a picture of the overall immunological state post-transplant

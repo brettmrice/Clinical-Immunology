@@ -1,0 +1,77 @@
+# Structure {-}
+
+Let's get into the elegant architecture of the immunoglobulin molecule. Understanding the structure is like a mechanic understanding how an engine is put together. Every single bolt, chain, and hinge has a specific purpose, and knowing how they fit together is the key to understanding how the entire machine works
+
+The "form follows function" principle is the absolute rule for immunoglobulins. Their very shape is what gives them their incredible power and specificity
+
+## **Immunoglobulin Structure: The Molecular Blueprint** {-}
+
+At its most basic, an immunoglobulin is a Y-shaped glycoprotein. This fundamental unit is called a **monomer**, and it serves as the blueprint for all antibody classes. IgG, IgD, and IgE exist as simple monomers. IgM and IgA are more complex, existing as multimers of this basic unit. Let's dissect this monomer piece by piece
+
+### **Four-Chain Model: Heavy & Light Chains** {-}
+
+The classic Y-shaped monomer is built from four polypeptide chains held together by covalent **disulfide bonds**
+
+*   **Two Identical Heavy (H) Chains:** These are the large polypeptide chains that form the inner part of the "Y," including the entire stem and part of the arms. The heavy chain is the most important structural component because its amino acid sequence in the constant region determines the antibody's class or **isotype** (IgG, IgA, IgM, IgE, or IgD). They are designated by Greek letters:
+    *   Gamma (γ) → **IgG**
+    *   Alpha (α) → **IgA**
+    *   Mu (μ) → **IgM**
+    *   Epsilon (ε) → **IgE**
+    *   Delta (δ) → **IgD**
+
+*   **Two Identical Light (L) Chains:** These are smaller polypeptide chains that are attached to the outer part of the "arms" of the Y. There are only two types, or isotypes, of light chains in humans:
+    *   **Kappa (κ)**
+    *   **Lambda (λ)**
+    *   A single antibody molecule will have *either* two kappa chains *or* two lambda chains, never one of each. In a healthy person, the ratio of kappa-producing B-cells to lambda-producing B-cells is about 2:1
+
+*   **Disulfide Bonds:** These are the molecular "glue." Covalent sulfur-sulfur bonds link the heavy chains to each other and link the light chains to the heavy chains, giving the molecule its structural integrity
+
+### **Functional Regions: Fab, Fc, and the Hinge** {-}
+
+We can think of the antibody in terms of three key functional areas. This was famously discovered by scientists who used enzymes to cleave the molecule into its component parts
+
+*   **Fab Region (Fragment, antigen-binding)**
+    *   This region consists of the two "arms" of the Y. Each arm is made of one light chain and the top half of one heavy chain
+    *   **Function:** This is the "business end" of the molecule. The very tip of the Fab fragment contains the unique, highly specific pocket—the **paratope**—that recognizes and binds to a specific antigenic determinant, or **epitope**. Since a monomer has two arms, it is **bivalent**, meaning it can bind to two identical epitopes at once
+
+*   **Fc Region (Fragment, crystallizable)**
+    *   This is the "stem" or "tail" of the Y, composed only of the bottom half of the two heavy chains
+    *   **Function:** This is the effector region that determines the biological activity of the antibody. While the Fab region says *what* the antibody binds to, the Fc region says *what happens next*. Its functions include:
+        *   **Activating the complement system:** (primarily IgM and IgG)
+        *   **Binding to Fc receptors on the surface of immune cells:** like macrophages, neutrophils, and mast cells. This is critical for opsonization and allergic reactions
+        *   **Determining if the antibody can cross the placenta:** (only IgG)
+
+*   **Hinge Region**
+    *   This is a flexible, proline-rich area in the middle of the heavy chains that connects the Fab arms to the Fc stem. It is found in IgG, IgA, and IgD. (IgM and IgE are less flexible as they lack a true hinge region)
+    *   **Function:** Think of it as a flexible wrist. It allows the two Fab arms to move independently, open, and close, which helps them bind to epitopes that may be spaced at different distances on a pathogen's surface
+
+### **Domains: Variable and Constant Regions** {-}
+
+If you zoom in even further on the heavy and light chains, you'll see they are composed of repeating segments called domains
+
+*   **Variable (V) Regions**
+    *   Located at the absolute tips of the Fab arms. Each heavy chain (V<sub>H</sub>) and light chain (V<sub>L</sub>) has one variable domain
+    *   This is where the incredible diversity of the immune system lies. The amino acid sequence in this region is different for every single clone of B-cells
+    *   This is the region that forms the specific antigen-binding site (paratope)
+
+*   **Constant (C) Regions**
+    *   These regions make up the rest of the antibody (the Fc stem and the base of the Fab arms). The amino acid sequence is relatively stable, or constant, among all antibodies of the same class
+    *   Light chains have one constant domain (C<sub>L</sub>)
+    *   Heavy chains have three or four constant domains (C<sub>H</sub>1, C<sub>H</sub>2, C<sub>H</sub>3, etc.), which make up the Fc portion and dictate its function
+
+### **Clinical & Laboratory Significance** {-}
+
+*   **Enzymatic Digestion:** The classic experiments are still relevant
+    *   **Papain:** digestion cleaves the antibody *above* the hinge, yielding **two separate Fab fragments** and **one Fc fragment**
+    *   **Pepsin:** digestion cleaves *below* the hinge, yielding one piece where the two arms are still linked, called **F(ab')<sub>2</sub>**, and a degraded Fc fragment. The F(ab')<sub>2</sub> fragment can still precipitate antigens, but it cannot activate complement
+*   **Multiple Myeloma:** In this cancer of plasma cells, a single clone proliferates wildly, producing a massive amount of one specific type of antibody (a monoclonal protein). Sometimes, only light chains are overproduced, which are small enough to be filtered by the kidneys and can be detected in the urine as **Bence Jones proteins**. Lab tests measuring the kappa/lambda light chain ratio in the blood are crucial for diagnosis and monitoring
+
+## **Key Terms** {-}
+
+*   **Heavy Chain:** The larger of the two types of polypeptide chains in an immunoglobulin; its constant region defines the antibody's class (isotype - G, A, M, E, or D)
+*   **Light Chain:** The smaller of the two types of polypeptide chains; it exists in one of two forms, kappa (κ) or lambda (λ)
+*   **Fab Region (Fragment, antigen-binding):** The two "arms" of the antibody monomer that contain the variable regions responsible for binding specifically to an antigen
+*   **Fc Region (Fragment, crystallizable):** The "stem" of the antibody monomer, composed only of constant heavy chain domains, which dictates the biological function of the molecule
+*   **Hinge Region:** The flexible amino acid segment between the Fab and Fc regions that allows the Fab arms to move, facilitating antigen binding
+*   **Disulfide Bonds:** Covalent chemical bonds between sulfur atoms that hold the heavy and light polypeptide chains together to form a functional antibody molecule
+*   **Variable Region:** The N-terminal portion of the heavy and light chains with a highly variable amino acid sequence, which forms the specific antigen-binding site (paratope)

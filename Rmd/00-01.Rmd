@@ -1,0 +1,17 @@
+# Content Areas {-}
+
+Source: <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#" target="_blank">MLT(ASCP) and MLS(ASCP) Certifications > Applicant Resources > Content Guideline</a>
+
+Major content areas covered:
+
+## **Principles of Immunology** {-}
+
+*   [Immune System Physiology]()
+*   [Immunoglobulins]()
+*   [Antigen-Antibody Interactions]()
+*   [Complement]()
+
+## Last Updated {-}
+
+Last edit pushed to this site was on <span id="last_updated">`r Sys.Date()`</span>
+

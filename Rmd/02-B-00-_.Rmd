@@ -1,0 +1,47 @@
+# Hypersensitivity {-}
+
+Let's dive into a core concept where our immune system, in its zealous effort to protect us, actually causes harm. This is **Hypersensitivity** — an exaggerated or inappropriate immune response to an antigen that leads to inflammation, tissue damage, and disease. It’s not that the immune system is broken; it's that it's working *too well* or responding to the wrong targets, causing significant collateral damage
+
+Think of it as four different types of "friendly fire" incidents, each with a unique mechanism, timing, and set of culprits. The classic **Gell and Coombs classification** gives us a perfect framework to understand these reactions. For a Medical Laboratory Scientist, knowing the difference between them is fundamental to understanding everything from allergies and transfusion reactions to the basis of autoimmune disease
+
+Here’s a simple way to frame them:
+*   **Type I:** An **I**mmediate, **I**g**E**-driven "allergy alarm."
+*   **Type II:** A cytotoxic attack on a specific **cell** "tagged" by antibody
+*   **Type III:** Damage from the messy debris of battle (**immune complexes**)
+*   **Type IV:** A **d**elayed ground assault led by T-cells, taking **d**ays to develop
+
+## **Type I: Immediate & IgE-Mediated (The Allergy Alarm)** {-}
+
+This is the classic, fast-acting allergic reaction
+
+*   **The Mediator:** **IgE** antibody
+*   **The Mechanism:** On first exposure to an allergen (like pollen), the body produces IgE, which arms **mast cells** by attaching to their surface. On a second exposure, the allergen cross-links this IgE, causing the mast cell to instantly degranulate and release a flood of inflammatory mediators, most importantly **histamine**
+*   **The Hallmark:** **Speed**. The reaction occurs within minutes of exposure
+*   **The Classic Example:** Anaphylaxis, a life-threatening systemic reaction causing shock and airway closure. Other examples include hay fever, hives, and food allergies. In the lab, we can test for allergen-specific IgE to identify the trigger
+
+## **Type II: Cytotoxic & Antibody-Mediated (The Targeted Hit)** {-}
+
+This reaction involves antibodies directly binding to antigens on the surface of a cell, marking it for destruction
+
+*   **The Mediators:** **IgG** and **IgM** antibodies directed against a **cell-surface antigen**
+*   **The Mechanism:** The antibody acts as a "tag" on the target cell. This tag then initiates the cell's destruction in one of three ways: activating the **complement cascade** to lyse the cell, flagging it for **phagocytosis** (opsonization), or recruiting NK cells to kill it (ADCC)
+*   **The Hallmark:** The target is always a **cell-bound antigen**
+*   **The Classic Example:** An **acute hemolytic transfusion reaction**, where a patient's pre-formed antibodies attack incompatible donor red blood cells. Another key example is **Hemolytic Disease of the Fetus and Newborn (HDFN)**
+
+## **Type III: Immune Complex-Mediated (The Clogged Filter)** {-}
+
+Here, the damage is not from antibodies attacking a specific cell, but from the collateral damage caused by clumps of antigen and antibody getting stuck in our tissues
+
+*   **The Mediator:** **Immune complexes** (soluble antigen bound to IgG)
+*   **The Mechanism:** Large numbers of these small, soluble immune complexes form in the bloodstream and are not properly cleared. They get trapped in the tiny blood vessels of organs like the kidneys and joints. Once deposited, they act as a beacon, activating the **complement cascade**, which recruits a swarm of neutrophils that release enzymes and cause severe inflammation and tissue damage
+*   **The Hallmark:** Damage is caused by the **deposition of immune complexes** in tissues
+*   **The Classic Example:** **Systemic Lupus Erythematosus (SLE)**, where immune complexes of nuclear antigens and autoantibodies deposit in the kidneys, causing lupus nephritis. In the lab, we monitor this by seeing **decreased C3 and C4 levels** as the complement gets consumed
+
+## **Type IV: T-Cell Mediated (The Delayed Ground Assault)** {-}
+
+This is the only hypersensitivity that is **not mediated by antibodies**. It is a slow, cell-mediated battle
+
+*   **The Mediators:** **T-lymphocytes** (CD4+ T-helper cells and CD8+ cytotoxic T-cells)
+*   **The Mechanism:** On first exposure, memory T-cells are created. On a second exposure, these memory T-cells are activated. CD4+ T-cells release cytokines that recruit and activate a large army of macrophages, and it's these angry macrophages that cause the bulk of the inflammation and tissue damage. CD8+ T-cells can also directly kill host cells presenting the antigen
+*   **The Hallmark:** The reaction is **delayed**, taking **24-72 hours** to fully develop
+*   **The Classic Example:** The **Tuberculin (PPD) skin test**. If a person has been exposed to TB, their memory T-cells will migrate to the injection site, causing a hard, red lump to form over 2-3 days. Other examples include contact dermatitis from poison ivy or nickel allergy

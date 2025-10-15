@@ -1,0 +1,74 @@
+# Hereditary {-}
+
+So far, we've explored an immune system that is either over-reactive (hypersensitivity) or misguided (autoimmunity). Now we're going to examine what happens when the immune system is fundamentally broken or incomplete. This is the world of **immunodeficiency**
+
+Think of a nation's military. An **acquired (or secondary) immunodeficiency** is like a strong, well-equipped army that is crippled by an external event, like a surprise attack or a supply line cut-off. The classic example is AIDS, where the HIV virus systematically destroys a perfectly good immune system
+
+A **hereditary (or primary) immunodeficiency (PID)**, however, is fundamentally different. This is when the army was never built correctly in the first place. The genetic "blueprints" for a key component—be it the air force (B-cells), the special forces (T-cells), or the munitions factories—were defective from birth. These are rare, single-gene disorders, but studying them is incredibly important because these "experiments of nature" have taught us almost everything we know about the function of the human immune system
+
+## **Classification by Defective Component** {-}
+
+The most logical way to approach these diseases is to classify them based on which part of the immune system is missing or non-functional
+
+### **1. B-Cell (Humoral) Deficiencies** {-}
+
+These disorders are characterized by a failure to produce functional antibodies. The T-cell arm of the immune system is typically intact
+
+*   **Clinical Picture:** Without opsonizing antibodies, patients are highly susceptible to recurrent infections with **encapsulated bacteria** (like *Streptococcus pneumoniae* and *Haemophilus influenzae*). They often suffer from repeated ear infections, sinusitis, and pneumonia. They generally handle viral infections fairly well, as their T-cell response is normal
+*   **Classic Example: X-linked Agammaglobulinemia (XLA), or Bruton's Agammaglobulinemia**
+    *   **The Defect:** This is the classic antibody deficiency. A mutation in the **Bruton's Tyrosine Kinase (BTK) gene** prevents the maturation of pre-B cells into mature B-cells in the bone marrow
+    *   **The Consequence:** The production line is halted. The patient has virtually no mature B-cells, no plasma cells, and therefore, no antibodies of any class
+    *   **Lab Diagnosis**
+        *   Quantitative immunoglobulin levels will show markedly **decreased or absent IgG, IgA, and IgM**
+        *   **Flow cytometry:** is definitive: it will show a normal number of T-cells (CD3+) but a near-complete **absence of B-cells (CD19+)**
+
+### **2. T-Cell (Cell-Mediated) Deficiencies** {-}
+
+These are generally more severe than pure B-cell defects, because a functional T-cell system is required to help B-cells make effective antibodies. Therefore, a primary T-cell defect almost always results in a secondary B-cell defect
+
+*   **Clinical Picture:** Patients are vulnerable to a much broader range of pathogens, including **viruses, fungi (like *Candida*), and intracellular bacteria**. They are susceptible to **opportunistic infections**
+*   **Classic Example: DiGeorge Syndrome**
+    *   **The Defect:** This isn't a single-gene defect but rather a developmental anomaly caused by a deletion on chromosome 22 (22q11.2). This deletion affects the development of the 3rd and 4th pharyngeal pouches, leading to abnormal development of the **thymus** and parathyroid glands
+    *   **The Consequence:** The thymus is the "school" where T-cells mature. If the thymus is small (hypoplastic) or absent (aplastic), T-cells cannot develop properly. The severity varies widely. Patients also often have characteristic facial features, heart defects, and hypocalcemia (due to the parathyroid issue)
+    *   **Lab Diagnosis**
+        *   **Flow cytometry:** will show a significantly **decreased number of mature T-cells (CD3+)**, with both CD4+ and CD8+ populations affected
+        *   B-cell (CD19+) numbers are usually normal, but their function (antibody production) is impaired due to the lack of T-cell help
+
+### **3. Combined B- and T-Cell Deficiencies** {-}
+
+This is the most catastrophic category of PIDs, where the entire adaptive immune system is essentially non-existent
+
+*   **Classic Example: Severe Combined Immunodeficiency (SCID)**
+    *   **The Concept:** SCID is not a single disease but a group of different genetic defects that all lead to the same devastating outcome: a profound lack of functional T-cells, and as a consequence, a lack of functional B-cells. This is the "bubble boy" disease
+    *   **Clinical Picture:** Without any adaptive immunity, infants suffer from severe, recurrent infections of all types from the first few months of life. They have a failure to thrive and cannot be given live vaccines (like MMR or rotavirus), as this would cause a fatal infection. Without treatment, SCID is fatal within the first year or two of life
+    *   **Common Genetic Causes**
+        *   **X-linked SCID (the most common form, ~50%):** A mutation in the gene for the **common gamma chain (γc)**, a protein shared by the receptors for several critical cytokines (IL-2, IL-4, IL-7, etc.). The lack of IL-7 receptor signaling is the key—T-cells cannot develop without it
+        *   **Adenosine Deaminase (ADA) Deficiency:** An autosomal recessive form. ADA deficiency leads to the buildup of a toxic metabolite that kills developing lymphocytes
+        *   **RAG Deficiency:** The RAG enzymes are required for V(D)J gene rearrangement. Without them, B-cells and T-cells cannot create their unique antigen receptors (BCR and TCR) and cannot mature
+    *   **Treatment:** The only definitive cure is a **hematopoietic stem cell (bone marrow) transplant**
+
+### **4. Phagocytic Deficiencies** {-}
+
+In these disorders, the cells of the innate immune system (neutrophils and macrophages) are unable to properly kill the pathogens they engulf
+
+*   **Classic Example: Chronic Granulomatous Disease (CGD)**
+    *   **The Defect:** A genetic defect in one of the components of the **NADPH oxidase** enzyme complex
+    *   **The Consequence:** This enzyme is responsible for producing reactive oxygen species (like superoxide) in a process called the "respiratory burst," which is how phagocytes kill ingested microbes. In CGD, the phagocyte can eat the pathogen, but it can't kill it. The body tries to wall off the ongoing infection by forming granulomas. Patients suffer from severe, recurrent infections with **catalase-positive** organisms (like *S. aureus* and *Aspergillus*)
+    *   **Lab Diagnosis:** The gold standard is the **Dihydrorhodamine (DHR) test** by flow cytometry, which measures the ability of neutrophils to produce a respiratory burst
+
+### **Role of the Clinical Lab in Diagnosing PIDs** {-}
+
+Our role is to systematically evaluate the different branches of the immune system to pinpoint the defect
+
+1.  **Screening Tests**
+    *   **Complete Blood Count (CBC) with Differential:** The first step. Are lymphocytes profoundly low (lymphopenia)? Are neutrophils present?
+    *   **Quantitative Immunoglobulins (qIg):** Measures the levels of IgG, IgA, and IgM. Low levels of all three point towards a B-cell or combined deficiency
+
+2.  **Confirmatory & Advanced Tests**
+    *   **Flow Cytometry:** This is the workhorse of cellular immunology. By using fluorescently labeled antibodies against cell surface markers (CD markers), we can precisely count the different populations of immune cells
+        *   **CD19 or CD20:** B-cells
+        *   **CD3:** All T-cells
+        *   **CD4:** T-helper cells
+        *   **CD8:** Cytotoxic T-cells
+        *   **CD16/56:** NK cells
+    *   **Newborn Screening for SCID:** This is a revolutionary public health initiative. A dried blood spot from a heel stick is used to measure **T-cell Receptor Excision Circles (TRECs)**. TRECs are small, circular pieces of DNA that are cut out of the genome as a T-cell matures in the thymus. A healthy baby is constantly making new T-cells and will have many TRECs. A baby with SCID is not making T-cells and will have **absent or very low TRECs**. This simple screen can identify SCID at birth, allowing for a life-saving transplant before the child gets sick

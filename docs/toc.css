@@ -1,0 +1,51 @@
+.book-toc > li:nth-child(2),
+.book-toc > li:nth-child(3),
+.book-toc > li:nth-child(5),
+.book-toc > li:nth-child(8),
+.book-toc > li:nth-child(9),
+.book-toc > li:nth-child(10),
+.book-toc > li:nth-child(12),
+.book-toc > li:nth-child(13),
+.book-toc > li:nth-child(14),
+.book-toc > li:nth-child(16),
+.book-toc > li:nth-child(17),
+.book-toc > li:nth-child(21),
+.book-toc > li:nth-child(22),
+.book-toc > li:nth-child(25),
+.book-toc > li:nth-child(26),
+.book-toc > li:nth-child(28),
+.book-toc > li:nth-child(30),
+.book-toc > li:nth-child(32),
+.book-toc > li:nth-child(33) {
+  padding-left: 10px;
+}
+.book-toc > li:nth-child(18),
+.book-toc > li:nth-child(19) {
+  padding-left: 20px;
+}
+.book-toc > li:nth-child(6),
+.book-toc > li:nth-child(23),
+.book-toc > li:nth-child(34),
+.book-toc > li:nth-child(38),
+.book-toc > li:nth-child(42),
+.book-toc > li:nth-child(51) {
+  position: sticky;
+  top: 2.3rem;
+  background: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-top: 0.5rem;
+  z-index: 1;
+  padding-bottom: 0.5rem;
+  margin-bottom: 0;
+}
+
+
+
+@media (max-width: 991.98px) {
+  .book-toc > li:nth-child(3),
+  .book-toc > li:nth-child(15),
+  .book-toc > li:nth-child(25) {
+    top: unset;
+  }
+}

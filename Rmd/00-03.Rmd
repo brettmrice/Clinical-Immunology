@@ -1,0 +1,11 @@
+# ASCP BOC {-}
+
+Source: <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#" target="_blank">MLT(ASCP) and MLS(ASCP) Certifications > Applicant Resources > Content Guideline</a>
+
+ASCP BOC's Content Guideline for the Medical Laboratory Technician, MLT(ASCP), and the Medical Laboratory Scientist, MLS(ASCP), certification exams consists of one major content area for Immunology. The information below was last revised on ASCP's website July 2025
+
+## **Immunology** {-}
+
+**Exam Percentage:** MLT(ASCP): 5% - 10% | MLS(ASCP): 5% - 10%
+
+**Description** Principles of immunology, diseases of the immune system, transplantation, infectious disease serology, serologic procedures, test results

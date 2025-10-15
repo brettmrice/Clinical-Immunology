@@ -1,0 +1,56 @@
+# Tumor Immunology {-}
+
+**Tumor Immunology** explores the fascinating and complex relationship between the immune system and cancer. The connection to transplantation is that the very same immune cells and pathways that are responsible for rejecting a transplanted organ are also our body's primary defense against malignant tumors
+
+For a long time, we viewed cancer as a purely cellular problem — a disease of uncontrolled growth caused by genetic mutations. But we now understand that cancer development is a dynamic battle, a constant struggle between the malignant cells trying to grow and the immune system trying to eliminate them. This concept is called **Immune Surveillance**
+
+Think of the immune system as a vigilant police force constantly patrolling the neighborhoods of the body. Its job is to check the "ID cards" (the MHC molecules) of every cell. Most cells are law-abiding citizens and are left alone. But occasionally, a cell goes rogue, mutates, and becomes a cancerous "criminal." A healthy immune system is supposed to recognize this rogue cell as dangerous and eliminate it before it can build a criminal empire (a tumor). Tumor immunology is the study of this battle
+
+## **How the Immune System "Sees" Cancer: Tumor Antigens** {-}
+
+If cancer arises from our own "self" cells, how does the immune system recognize it as a threat? The answer is that cancer cells, through their numerous mutations and dysregulated biology, begin to display abnormal proteins, or **antigens**, on their surface MHC molecules. These antigens fall into two main categories:
+
+*   **Tumor-Specific Antigens (TSAs):** These are the ideal targets. They are proteins that are completely unique to the cancer cell and are not found on any normal cell in the body. They most often arise from the very mutations that drive the cancer (e.g., a mutated p53 protein). Because they are truly "foreign" to the immune system, they can provoke a very strong T-cell response
+
+*   **Tumor-Associated Antigens (TAAs):** These are more common. They are not unique to the tumor; they are normal "self" proteins that are just being displayed inappropriately
+    *   **Overexpressed Antigens:** The cell produces a normal protein but in ridiculously large quantities. A classic example is **HER2** in some breast cancers
+    *   **Oncofetal Antigens:** These are proteins that are normally only expressed during embryonic development but are aberrantly re-activated in the cancer cell. The immune system is no longer tolerant to them. The lab uses these as tumor markers, such as **Carcinoembryonic Antigen (CEA)** in colon cancer and **Alpha-Fetoprotein (AFP)** in liver cancer
+    *   **Cancer-Testis Antigens:** Proteins that are normally only found in immunologically privileged sites like the testes but are expressed by the tumor
+
+## **The Warriors: Cells That Fight Cancer** {-}
+
+Both the innate and adaptive arms of the immune system are involved in the fight against cancer
+
+*   **Natural Killer (NK) Cells (Innate Immunity):** These are the frontline patrol officers. NK cells are masters of detecting cells that are trying to hide. One of the main ways cancer cells try to evade T-cells is by stopping the expression of MHC Class I molecules on their surface (hiding their ID card). NK cells are specifically designed to kill any cell that is not displaying a "self" MHC Class I molecule, a mechanism called the **"missing-self" hypothesis**
+
+*   **CD8+ Cytotoxic T-Lymphocytes (CTLs) (Adaptive Immunity):** These are the special forces, the single most important and effective weapon against cancer. Dendritic cells pick up tumor antigens, travel to a lymph node, and present them to naive CD8+ T-cells. This activates the T-cells, turning them into highly specific killing machines that then hunt down and destroy any cancer cell in the body presenting that specific tumor antigen on its MHC Class I molecule
+
+*   **CD4+ Helper T-Cells (Adaptive Immunity):** These are the "generals" of the anti-tumor response. They are crucial for activating CTLs and for licensing dendritic cells to do their job properly. A strong CD4+ T-cell response is essential for a durable and effective anti-cancer attack
+
+## **The Great Escape: How Cancer Evades the Immune System** {-}
+
+If our immune system is so good at this, why do people still get cancer? The answer is that cancer is a product of evolution on a microscopic scale. The immune system applies constant pressure, killing off the "weak" cancer cells. But the "stronger," more devious cancer cells that develop mechanisms to evade the immune system are the ones that survive and go on to form a clinically apparent tumor. This process is called **Cancer Immunoediting**
+
+Here are some of the key escape strategies:
+
+1.  **Hiding** Cancer cells can simply stop expressing the tumor antigen that the T-cells are looking for, or they can downregulate their MHC Class I molecules so the antigen can't be presented
+
+2.  **Creating an Immunosuppressive Microenvironment** Tumors are not just a ball of cancer cells; they are complex environments. The tumor can secrete immunosuppressive cytokines like **TGF-β** and **IL-10** that paralyze immune cells. They can also recruit suppressive cell types, like **Regulatory T-cells (Tregs)**, to the tumor site to shut down the attack
+
+3.  **Activating Immune Checkpoints** This is perhaps the most important discovery in modern oncology. T-cells have natural "brake pedals" or **checkpoints** to prevent them from causing excessive damage (i.e., autoimmunity). One of the most important checkpoints is the interaction between the **PD-1** receptor on a T-cell and its ligand, **PD-L1**, on another cell. When PD-1 is engaged, the T-cell is told to stand down. Many clever tumor cells have learned to express high levels of PD-L1 on their surface. So when an activated T-cell arrives to kill the tumor, the tumor cell engages the T-cell's PD-1 "brake," effectively shutting the T-cell off and protecting itself from destruction
+
+## **Immunotherapy: Helping the Immune System Win the War** {-}
+
+This is where the clinical lab's role becomes absolutely central. By understanding *how* tumors evade the immune system, we can design therapies to block these escape mechanisms
+
+*   **Checkpoint Inhibitors:** This is a revolutionary class of drugs. They are monoclonal antibodies that physically block the checkpoint interaction. For example, drugs like Pembrolizumab are **anti-PD-1 antibodies**. They bind to the PD-1 receptor on the T-cell, preventing the tumor from being able to engage it. This is like "cutting the brake lines" on the T-cell, unleashing its full killing potential against the cancer
+    *   **Lab's Role:** The pathology and immunology labs are critical here. We perform **immunohistochemistry (IHC)** on a patient's tumor biopsy to stain for the **PD-L1** protein. A high level of PD-L1 expression on the tumor is a **predictive biomarker** that suggests the patient is more likely to respond to a checkpoint inhibitor drug
+
+*   **Adoptive Cell Therapy (CAR-T Cell Therapy):** This is one of the most exciting and personalized forms of immunotherapy, used primarily for blood cancers
+    1.  **Collection** We collect a patient's own T-cells from their blood via apheresis
+    2.  **Engineering** In a specialized lab, these T-cells are genetically modified using a virus to express a **Chimeric Antigen Receptor (CAR)**. A CAR is a synthetic, man-made receptor. Its outside portion is an antibody fragment that can recognize a tumor antigen (like CD19 on a B-cell leukemia), and its inside portion is the powerful activation machinery of a T-cell
+    3.  **Expansion & Infusion** These newly engineered "super-soldier" T-cells are grown to massive numbers in the lab and are then infused back into the patient
+    4.  **Action** The CAR-T cells now have a GPS to hunt down and a powerful weapon to kill any cell expressing the target antigen, leading to dramatic remissions in patients who had run out of other options
+
+*   **Therapeutic Monoclonal Antibodies:** These antibodies can target tumor antigens directly. For example, **Rituximab** targets the **CD20** antigen on B-cell lymphomas, marking them for destruction by NK cells (a process called ADCC). **Trastuzumab (Herceptin)** targets the **HER2** receptor on breast cancer cells, blocking its growth signals
+    *   **Lab's Role:** We perform IHC or other methods to confirm that a patient's tumor expresses the target (e.g., HER2) to determine if they are eligible for the therapy

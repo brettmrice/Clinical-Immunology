@@ -1,0 +1,20 @@
+# Reading List {-}
+
+Source: <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#" target="_blank">MB(ASCP) and SMB(ASCP) Certifications > Applicant Resources > Reading List</a>
+
+ASCP makes it clear that their suggested reading/reference list for the Technologist in Molecular Biology, MB(ASCP), and the Specialist in Molecular Biology, SMB(ASCP), certification exams "is intended only as a partial reference source". The suggested reading/reference list below was last revised on ASCP's website January 2025
+
+
+## **Journals** {-}
+
+*   <a href="https://clsjournal.ascls.org/" target="_blank">Clinical Laboratory Science.</a> Published by American Society for Clinical Laboratory Science.
+*   <a href="academic.oup.com/labmed" target="_blank">Laboratory Medicine.</a> Published by Oxford University Press.
+*   <a href="https://www.mlo-online.com/" target="_blank">Medical Laboratory Observer.</a> Published by Endeavor Business Media, LLC.
+
+
+## **Texts** {-}
+
+### **Immunology** {-}
+
+*   Miller, L.E. & Stevens, C.D. (2021). Clinical Immunology and Serology: A Laboratory Perspective (5th ed.). Philadelphia: F.A. Davis Company.
+*   Turgeon, M.L. (2025). Immunology & Serology in Laboratory Medicine (8th ed.). St. Louis, MO: Elsevier. 

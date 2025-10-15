@@ -1,0 +1,56 @@
+# Tuberculosis {-}
+
+Let's tackle a truly unique challenge in infectious disease diagnostics: **Tuberculosis**. This is a perfect topic for an immunology review because our main diagnostic methods don't look for antibodies or the organism itself. Instead, they look for the *footprint* of a **cell-mediated immune response**
+
+The culprit, ***Mycobacterium tuberculosis***, is an intracellular pathogen. It gets inside our macrophages and lives there. A healthy immune system can't always eliminate it, but it can contain it by building a wall around the infected cells. This structure is called a **granuloma**. Inside this biological prison, the bacteria can lie dormant for decades. This leads to the single most important concept you must understand for TB diagnostics:
+
+*   **Latent TB Infection (LTBI):** The person is infected, the immune system has the bacteria walled off, and they are **not sick** and **not infectious**. The bacteria are alive but dormant—a sleeping spy awaiting orders. The majority of infected people are in this state
+*   **Active TB Disease:** The immune system's containment fails, the granuloma breaks down, and the bacteria begin to multiply. The person is **sick** and **highly infectious**, typically with symptoms like a persistent cough, fever, night sweats, and weight loss
+
+Our primary immunologic tests are designed to answer one question: **"Has this person's immune system ever been exposed to and mounted a response against *M. tuberculosis*?"** Critically, these tests **cannot distinguish** between latent infection and active disease. Their job is to identify the roughly 10% of people with LTBI who are at risk of progressing to active disease so they can be treated
+
+## **Classic Method: Tuberculin Skin Test (TST) or PPD Test** {-}
+
+This test has been the cornerstone of TB screening for over a century. It's a classic, in-vivo (in the body) demonstration of a **Type IV, or Delayed-Type, Hypersensitivity (DTH)** reaction
+
+*   **The Principle:** We are intentionally provoking a localized memory T-cell response in the skin
+*   **The Procedure**
+    1.  A small, standardized dose of **Purified Protein Derivative (PPD)** is injected intradermally (just under the top layer of skin) in the forearm. PPD is a crude cocktail of antigens derived from a culture of *M. tuberculosis*
+    2.  If the patient has been previously infected (has LTBI or active TB), they will have **memory T-helper cells (CD4+)** that are sensitized to these TB antigens
+    3.  Over the next **48-72 hours**, these memory T-cells will migrate to the injection site. They recognize the PPD antigens, become activated, and release a flood of **cytokines** (like interferon-gamma)
+    4.  These cytokines recruit a large number of macrophages and other inflammatory cells to the site, causing localized swelling and hardening
+*   **Reading and Interpretation**
+    *   A trained healthcare worker must "read" the test 48-72 hours later. They are not looking at the redness (erythema), but are palpating for the diameter of the hard, raised bump, which is called **induration**
+    *   The interpretation of a "positive" result depends on the size of the induration and the patient's risk factors. This is a key concept: the cut-off balances sensitivity and specificity
+        *   **≥ 5 mm:** Positive in the highest-risk individuals (e.g., HIV-positive, recent close contacts of someone with active TB)
+        *   **≥ 10 mm:** Positive in medium-risk individuals (e.g., healthcare workers, people from high-prevalence countries)
+        *   **≥ 15 mm:** Positive for anyone, regardless of risk factors
+*   **Limitations of the PPD**
+    *   **Subjectivity:** Reading the induration can be subjective and requires training
+    *   **Logistics:** The patient must return for a second visit to have the test read
+    *   **False Positives (The Biggest Problem):** The PPD antigens are not specific to *M. tuberculosis*. A patient will have a positive test if they have been vaccinated with the **BCG (Bacille Calmette-Guérin) vaccine**, which is common in many countries outside the U.S. They will also cross-react with some other environmental non-tuberculous mycobacteria
+
+## **Modern Method: Interferon-Gamma Release Assays (IGRAs)** {-}
+
+IGRAs were developed to overcome the major limitations of the PPD, especially the BCG cross-reactivity problem. This is an *in-vitro* (in a test tube) blood test that measures the same T-cell response, but with much greater precision and specificity
+
+*   **The Principle:** We directly challenge a patient's T-cells in a blood sample with highly specific TB antigens and measure the amount of **interferon-gamma (IFN-γ)** they release in response
+*   **The Procedure**
+    1.  A fresh whole blood sample is collected from the patient
+    2.  The blood is aliquoted into tubes containing different reagents. The key tubes contain synthetic peptide antigens, such as **ESAT-6 and CFP-10**. These antigens are incredibly specific; they are encoded by a region of the *M. tuberculosis* genome that is **deleted** from the BCG vaccine strain and is absent from most other mycobacteria. This is the key to the test's specificity
+    3.  If the patient's blood contains memory T-cells sensitized to TB, these cells will recognize the ESAT-6 and CFP-10 antigens and, in response, will produce and secrete the cytokine **interferon-gamma**
+    4.  The lab then measures the amount of IFN-γ produced
+*   **The Two Main IGRA Platforms**
+    *   **QuantiFERON-TB Gold Plus (QFT-Plus):** This is an **ELISA-based** method. After incubation, the plasma is harvested and the amount of IFN-γ is measured using a standard sandwich ELISA. The test includes multiple tubes:
+        *   **Nil Control:** The patient's blood with no added antigen. This is the baseline
+        *   **TB Antigen Tubes (TB1 & TB2):** Contain the ESAT-6/CFP-10 antigens to stimulate both CD4+ and CD8+ T-cells
+        *   **Mitogen Control:** Contains a potent, non-specific T-cell activator. This is the **positive control** for the patient's immune system. If the mitogen tube is negative, it means the patient is anergic or their T-cells aren't working properly, and the test result is "indeterminate."
+    *   **T-SPOT.TB:** This is an **ELISpot** method. After incubation with the antigens, the patient's cells are washed away, and a reagent is added that creates a "spot" everywhere a single T-cell was sitting and secreting IFN-γ. The result is determined by counting the number of spots
+*   **Advantages of IGRAs over the PPD**
+    *   **Specificity:** Not affected by prior BCG vaccination
+    *   **Objectivity:** The result is a quantitative, numerical value from the lab, not a subjective measurement of a bump
+    *   **Logistics:** Requires only a single patient visit to draw blood
+
+## **Final Word: Clinical Context is Everything** {-}
+
+Remember, a positive result from either a PPD or an IGRA **does not diagnose active TB disease**. It simply identifies an individual with a cellular immune response to *M. tuberculosis*. To diagnose **active TB**, a patient with a positive immunologic test must also have clinical symptoms, a suggestive chest X-ray, and—the gold standard—a **positive sputum smear (for acid-fast bacilli) and culture** performed by the microbiology lab

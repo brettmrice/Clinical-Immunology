@@ -1,0 +1,49 @@
+# Thyroid Antibodies {-}
+
+The primary goal of thyroid antibody testing is to determine if a patient's thyroid problem—be it an underactive thyroid (**hypothyroidism**) or an overactive one (**hyperthyroidism**) — is caused by autoimmunity. There are three main autoantibodies we look for.
+
+## **1. Anti-Thyroid Peroxidase Antibody (Anti-TPO)** {-}
+
+This is the undisputed star player and the most common thyroid antibody test ordered. It is the hallmark antibody of **Hashimoto's thyroiditis**.
+
+*   **The Target Antigen:** The antibody is directed against **Thyroid Peroxidase (TPO)**, a critical enzyme located within the thyroid follicular cells. The job of the TPO enzyme is to catalyze the key steps in the production of thyroid hormones (T3 and T4). By attacking this enzyme, the immune system directly sabotages the gland's ability to produce hormones.
+
+*   **Mechanism of Damage:** The binding of Anti-TPO antibodies to the thyroid cells is highly destructive. It triggers two classic immunology pathways:
+    1.  **Complement Activation:** The antibodies activate the classical complement pathway, leading to direct cell damage.
+    2.  **Antibody-Dependent Cell-Mediated Cytotoxicity (ADCC):** The antibodies coat the thyroid cells, acting as a flag that calls in Natural Killer (NK) cells to come and destroy them. This process, along with direct killing by T-cells, leads to a gradual, progressive destruction of the thyroid gland, resulting in **hypothyroidism**.
+
+*   **Clinical Significance:**
+    *   The presence of high titers of Anti-TPO antibodies is the single most important serological marker for **Hashimoto's thyroiditis**, the most common cause of hypothyroidism in areas with sufficient iodine intake. Over 90% of patients with Hashimoto's are positive for Anti-TPO.
+    *   Interestingly, Anti-TPO antibodies are also found in about 75% of patients with **Graves' disease**. This highlights that even in a disease characterized by stimulation, there is often an underlying destructive autoimmune process occurring simultaneously.
+
+## **2. Anti-Thyroglobulin Antibody (Anti-Tg)** {-}
+
+This antibody is often tested alongside Anti-TPO, though it is less sensitive and specific for diagnosing autoimmune thyroid disease.
+
+*   **The Target Antigen:** The antibody targets **Thyroglobulin (Tg)**. Thyroglobulin is a massive protein produced by thyroid cells that acts as the scaffold or storage form for thyroid hormones. It's the precursor molecule upon which T3 and T4 are built.
+
+*   **Clinical Significance:**
+    *   **In Autoimmune Disease:** Anti-Tg is positive in about 85% of patients with Hashimoto's and about 30% of patients with Graves' disease. Its presence, along with a positive Anti-TPO, adds further evidence to a diagnosis of autoimmune thyroid disease.
+    *   **As an Interfering Substance (CRITICAL CONCEPT):** The most important role for Anti-Tg testing in modern labs is often to check for interference. Thyroglobulin (the protein itself, not the antibody) is used as a highly sensitive **tumor marker** to monitor patients after surgery for thyroid cancer. If a patient develops Anti-Tg antibodies, these antibodies can bind to the thyroglobulin in their blood sample and cause a **falsely low or undetectable result** in the tumor marker assay. Therefore, every time a thyroglobulin level is ordered for cancer monitoring, an Anti-Tg test must be run alongside it to ensure the result is valid and not being masked by an autoantibody.
+
+## **3. TSH Receptor Antibody (TRAb)** {-}
+
+This antibody is fundamentally different from the other two. It doesn't primarily cause destruction; it causes **dysfunction**. It is the hallmark antibody of **Graves' disease**.
+
+*   **The Target Antigen:** The antibody targets the **TSH Receptor** on the surface of thyroid cells. In a healthy person, Thyroid-Stimulating Hormone (TSH) from the pituitary gland binds to this receptor to "press the gas pedal" and tell the thyroid to make hormones.
+
+*   **Mechanism of Action - The Great Imposter:** This autoantibody is a molecular mimic of the TSH hormone. It binds to the TSH receptor and activates it, just like TSH would. However, unlike TSH, the antibody's binding is unregulated and continuous. It effectively jams the accelerator to the floor, causing the thyroid to produce a massive, uncontrolled excess of thyroid hormone, leading to **hyperthyroidism**. This specific type of TRAb is often called **Thyroid-Stimulating Immunoglobulin (TSI)**.
+
+*   **Clinical Significance:**
+    *   The presence of TRAb (or TSI) is highly specific for **Graves' disease** and confirms that a patient's hyperthyroidism is autoimmune in nature.
+    *   It is also measured in pregnant women with a history of Graves' disease because the antibody is an IgG and can cross the placenta, potentially causing transient hyperthyroidism in the newborn.
+
+## **The Laboratory Workflow** {-}
+
+Today, these antibodies are measured using highly sensitive and automated **immunoassays**, most commonly **chemiluminescence immunoassays (CIAs)**. The diagnostic process usually follows a logical two-step flow:
+
+1.  **Assess Thyroid Function:** The first step is always to measure the patient's **TSH** and **Free T4** levels. This tells us the *effect*—is the gland underactive (High TSH, Low FT4) or overactive (Low TSH, High FT4)?
+
+2.  **Determine the Cause:** The second step is to order the appropriate antibody test to find the *cause*.
+    *   If the patient is **hypothyroid**, the physician will order an **Anti-TPO** to confirm Hashimoto's.
+    *   If the patient is **hyperthyroid**, the physician will order a **TRAb** to confirm Graves' disease.

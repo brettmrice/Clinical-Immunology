@@ -1,0 +1,85 @@
+# T. pallidum & B. burgdorferi {-}
+
+We are going to look at two of the great mimics in medicine, both caused by a stealthy type of bacteria called a **spirochete**. These spiral-shaped organisms are masters of disguise, evasion, and causing multi-stage diseases that can baffle clinicians for years. Our job in the serology lab is to unmask them by detecting the specific antibody footprints they leave behind
+
+## **Syphilis: "The Great Pretender"** {-}
+
+Syphilis, caused by the spirochete ***Treponema pallidum***, is a sexually transmitted infection that, if left untreated, progresses through distinct stages, each with its own clinical picture and corresponding serological profile. Understanding these stages is the key to interpreting our test results correctly
+
+### **Clinical Stages of Syphilis** {-}
+
+*   **Primary Syphilis (3-90 days after exposure)**
+    *   **The Sign:** The hallmark is a single, painless, clean-based sore called a **chancre** at the site of infection
+    *   **The Problem:** The chancre is teeming with spirochetes, but the body's antibody response is just getting started. Many patients will still be **seronegative** in the early part of this stage. Direct detection by darkfield microscopy is classic but rarely done now. The chancre will heal on its own, but the disease has just begun
+
+*   **Secondary Syphilis (4-10 weeks after the chancre)**
+    *   **The Signs:** The spirochete has now gone systemic. This stage is characterized by a widespread, non-itchy rash (often on the palms and soles), fever, swollen lymph nodes, and sometimes patchy hair loss. The patient is highly infectious
+    *   **The Serology:** The immune response is now in full swing. Antibody levels are at their peak, and virtually **all serological tests will be strongly positive**
+
+*   **Latent Syphilis (No signs or symptoms)**
+    *   **The Sign:** The complete absence of signs. This is the "hidden" stage. It begins when the secondary symptoms disappear and can last for years or even a lifetime. It is subdivided into *early latent* (<1 year) and *late latent* (>1 year)
+    *   **The Serology:** There are no physical clues. Diagnosis in this stage depends **entirely on positive serological tests**
+
+*   **Tertiary (Late) Syphilis (Years to decades later)**
+    *   **The Signs:** In a subset of untreated individuals, the disease re-emerges with devastating consequences. This can include:
+        *   **Gummas:** Destructive, rubbery lesions in skin, bone, or organs
+        *   **Cardiovascular Syphilis:** Aneurysms of the aorta
+        *   **Neurosyphilis:** Can occur at any stage but is classic here. Involves infection of the brain and spinal cord, leading to dementia, paralysis, and sensory deficits
+    *   **The Serology:** Patients are serologically positive. For neurosyphilis, the key diagnostic test is a **VDRL test on cerebrospinal fluid (CSF)**
+
+### **Laboratory Diagnosis: Two Types of Tests** {-}
+
+To make sense of syphilis, you must understand that we use two fundamentally different types of antibody tests
+
+1.  **Non-treponemal Tests (Screening & Monitoring)**
+    *   **What they detect:** These tests don't detect antibodies against the bacteria itself. They detect antibodies called **reagin** against a lipid material (cardiolipin) that is released from damaged host cells. They are a marker of infection-induced damage
+    *   **The Tests:** **RPR** (Rapid Plasma Reagin) and **VDRL** (Venereal Disease Research Laboratory)
+    *   **Key Features**
+        *   They are reported as a **titer** (e.g., 1:32). A four-fold drop in titer (e.g., from 1:32 to 1:8) after treatment indicates a successful cure
+        *   They will eventually become **non-reactive** after successful treatment
+        *   They are not specific and can cause **biological false positives** in other conditions like autoimmune disease, pregnancy, and other infections
+
+2.  **Treponemal Tests (Confirmation)**
+    *   **What they detect:** These are highly specific tests that detect antibodies directed **specifically against *T. pallidum*** antigens
+    *   **The Tests:** **FTA-ABS** (fluorescent treponemal antibody absorption), **TP-PA** (T. pallidum particle agglutination), and modern **chemiluminescence immunoassays (CIAs)** and **enzyme immunoassays (EIAs)**
+    *   **Key Features**
+        *   They are used to **confirm** a positive non-treponemal test result
+        *   Crucially, once a person is infected, these tests usually remain **reactive for life**, regardless of treatment. They create a "serological scar" and cannot be used to monitor treatment or distinguish a new infection from an old one
+
+#### **The Testing Algorithm: Putting It All Together** {-}
+*   **Traditional Algorithm:** Screen with RPR -> If reactive, confirm with a treponemal test (like TP-PA). Simple and cost-effective
+*   **Reverse Algorithm:** Screen with a sensitive and automatable treponemal EIA/CIA -> If reactive, perform an RPR to determine activity -> If the results are discordant (Treponemal +, RPR -), perform a second, different treponemal test (like TP-PA) to resolve the discrepancy. This algorithm is better at detecting very early or very late syphilis but can be confusing to interpret
+
+## **Lyme Disease: "The New Great Imitator"** {-}
+
+Lyme disease, caused by the spirochete ***Borrelia burgdorferi***, is transmitted by the bite of an infected ***Ixodes*** **(deer) tick**. Like syphilis, it's a multi-stage disease that can affect the skin, joints, heart, and nervous system
+
+### **Clinical Stages of Lyme Disease** {-}
+
+*   **Stage 1: Early Localized (Days to weeks after bite)**
+    *   **The Sign:** The classic sign in ~70-80% of cases is a bullseye-shaped rash called **erythema migrans (EM)**. The patient may also have flu-like symptoms
+    *   **The Serology:** This is the critical **seronegative window**. The body has not had time to mount a detectable antibody response. Diagnosis at this stage is **clinical**, based on the presence of the rash. Serological testing is not recommended and is often falsely negative
+
+*   **Stage 2: Early Disseminated (Weeks to months later)**
+    *   **The Signs:** The bacteria have spread through the bloodstream. This can lead to multiple EM rashes, neurological symptoms (like facial palsy, or Bell's palsy), and cardiac problems (like heart block)
+    *   **The Serology:** The antibody response is now developing. **IgM** appears first, followed by **IgG**. Serological tests become positive during this stage
+
+*   **Stage 3: Late Disseminated (Months to years later)**
+    *   **The Sign:** The hallmark of late Lyme disease is **arthritis**, typically in large joints like the knee, that comes and goes
+    *   **The Serology:** By this point, the patient should have a robust **IgG** response. IgM has typically waned and is no longer relevant
+
+### **Laboratory Diagnosis: A Mandatory Two-Tiered Approach** {-}
+
+The CDC mandates a very specific, two-step testing algorithm to minimize false positive results. You must perform them in this order
+
+1.  **Screening Test**
+    *   **The Test:** A highly **sensitive** Enzyme Immunoassay (EIA) or Immunofluorescence Assay (IFA)
+    *   **The Purpose:** To screen for potentially positive samples. The sensitivity is high, meaning it's very good at ruling out Lyme disease
+    *   **The Interpretation:** If the Tier 1 test is **negative**, the testing is complete. The patient does not have Lyme disease (unless they are in the very early, seronegative window). No further testing is done
+
+2.  **Confirmatory Test (Western Blot)**
+    *   **The Test:** The highly **specific** Western Blot. This test is **only** performed if the Tier 1 screening test is positive or equivocal
+    *   **The Purpose:** To confirm that the antibodies detected in the screen are truly specific to *B. burgdorferi*
+    *   **The Interpretation (Memorize these criteria!)**
+        *   **IgM Western Blot:** Considered positive if **2 of the following 3 bands** are present: 23, 39, and 41 kDa. The IgM blot is only relevant if the patient has had symptoms for **less than 30 days**
+        *   **IgG Western Blot:** Considered positive if **5 of the following 10 bands** are present. This is the key test for diagnosing disseminated and late-stage disease. Like syphilis, the IgG response can persist for years after successful treatment

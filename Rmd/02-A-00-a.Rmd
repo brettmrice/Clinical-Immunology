@@ -1,0 +1,61 @@
+# Systemic {-}
+
+Think of the immune system as a highly trained police force. Autoimmunity is what happens when this force mistakenly identifies its own citizens and infrastructure as dangerous criminals and begins to attack them. When this attack is focused on one specific organ (like the thyroid in Hashimoto's disease), we call it organ-specific. But when the attack is widespread, targeting common components found in cells throughout the body, we call it **systemic**
+
+The quintessential, textbook example of a systemic autoimmune disease, and one you will become very familiar with in the clinical lab, is **Systemic Lupus Erythematosus (SLE)**
+
+## **Systemic Lupus Erythematosus (SLE): The Great Imitator** {-}
+
+SLE is a chronic, inflammatory autoimmune disease that can affect virtually any organ in the body—the skin, joints, kidneys, heart, lungs, blood vessels, and brain. Because its symptoms are so varied and can mimic many other illnesses, it's often called "the great imitator," which makes a laboratory diagnosis absolutely critical
+
+### **Pathophysiology: A Cascade of Errors** {-}
+
+The underlying problem in SLE is a profound breakdown in **self-tolerance**. It's a multi-step process that results in the body attacking the very core of its own cells—the nucleus
+
+1.  **Faulty Garbage Disposal** All day, every day, cells in our body undergo a process of programmed cell death called **apoptosis**. This is a normal, tidy process. In healthy individuals, the cellular debris, including nuclear material, is quickly cleaned up by phagocytes like macrophages. In SLE patients, this cleanup process is inefficient
+2.  **Antigen Exposure** Because the debris isn't cleared properly, nuclear components (like DNA, histones, and other proteins) are left exposed to the immune system
+3.  **Autoantibody Production** The immune system sees this exposed nuclear material as foreign and dangerous. B-cells are activated and begin to produce a wide range of **autoantibodies** against these nuclear components. This general class of antibodies is called **Antinuclear Antibodies (ANAs)**
+4.  **Immune Complex Formation** These autoantibodies then bind to the nuclear antigens floating in the bloodstream, forming **immune complexes**
+5.  **Deposition and Damage (Type III Hypersensitivity)** These small, soluble immune complexes are the real agents of destruction. They are not cleared effectively and get deposited in the tiny blood vessels of various organs. Their favorite targets are the **kidneys** (causing lupus nephritis), the skin, and the joints
+6.  **Inflammation** Wherever these complexes deposit, they activate the **classical complement pathway**. This generates a powerful local inflammatory response (recruiting neutrophils and macrophages) that causes tissue damage. This continuous cycle of cell damage, antigen exposure, and immune complex formation fuels the chronic nature of the disease
+
+### **Role of the Immunology Lab: Providing the Evidence** {-}
+
+A physician may suspect SLE based on clinical symptoms (like a butterfly-shaped facial rash, joint pain, and fatigue), but they cannot make a diagnosis without objective evidence from the lab. Our job is to detect the hallmark autoantibodies and assess the collateral damage of the disease
+
+The testing strategy is typically a two-step process: a highly sensitive screening test followed by more specific confirmatory tests
+
+#### **Screening Test: Antinuclear Antibody (ANA)** {-}
+
+The ANA test is the single most important screening test for SLE. Its purpose is to answer one question: "Is the patient making antibodies against components of the cell nucleus?"
+
+*   **Method:** The gold standard is **Indirect Fluorescent Antibody (IFA)**
+    1.  Patient serum is diluted and incubated on a microscope slide that is coated with a monolayer of fixed human epithelial cells (**HEp-2 cells**). HEp-2 cells are ideal because they have very large, prominent nuclei
+    2.  If ANAs are present in the patient's serum, they will bind to the nuclei of the HEp-2 cells
+    3.  The slide is washed, and a secondary antibody—an anti-human immunoglobulin labeled with a **fluorochrome**—is added. This secondary antibody will bind to any patient antibody that is stuck to the cells
+    4.  The slide is viewed under a fluorescent microscope. If the cell nuclei glow, the test is **positive**
+*   **Interpretation**
+    *   **Sensitivity & Specificity:** The ANA test is extremely **sensitive** for SLE (over 95% of SLE patients are positive). This means a **negative ANA result is very powerful and makes a diagnosis of SLE highly unlikely**. However, the test is **not specific**. A positive ANA can also be seen in other autoimmune diseases (like Sjögren's or scleroderma) and even in a small percentage of healthy individuals, especially the elderly
+    *   **Titer and Pattern:** When the ANA is positive, we report two things:
+        *   **Titer:** We perform serial dilutions of the patient's serum until we get a negative result. The titer is the reciprocal of the last dilution to show fluorescence (e.g., 1:80, 1:160, 1:320). A higher titer generally indicates a higher concentration of autoantibody and is more likely to be clinically significant
+        *   **Pattern:** The pattern of the fluorescence in the nucleus gives us a clue as to which specific nuclear antigen the antibody is targeting. The main patterns are:
+            *   **Homogeneous (or Diffuse):** The entire nucleus glows smoothly. Often associated with antibodies to **dsDNA and histones**
+            *   **Speckled:** The nucleus is filled with many small points of light. The most common pattern, associated with antibodies to **Smith (Sm), RNP, SSA, and SSB**
+            *   **Nucleolar:** Only the nucleoli within the nucleus stain. Often associated with scleroderma
+            *   **Centromere:** Only the centromeres of the chromosomes stain. Highly specific for the CREST syndrome variant of scleroderma
+
+#### **Specific/Confirmatory Tests for SLE** {-}
+
+If the ANA screen is positive, the next step is to identify the specific autoantibody, as some are highly diagnostic for SLE. These are often run on automated immunoassay platforms (like ELISA) or as an **Extractable Nuclear Antigen (ENA) panel**
+
+*   **Anti-double-stranded DNA (anti-dsDNA):** Antibodies against native, double-stranded DNA are highly **specific** for SLE. Their presence is one of the formal diagnostic criteria, and their levels often correlate with disease activity, particularly **lupus nephritis** (kidney disease)
+*   **Anti-Smith (anti-Sm):** Antibodies against the Smith antigen are the **most specific** antibody for SLE. While only found in about 20-30% of SLE patients, their presence is virtually diagnostic of the disease. It is a "marker" antibody
+*   **Anti-histone Antibodies:** While present in about 50% of SLE patients, these are the hallmark of a different condition: **Drug-Induced Lupus**, where they are found in over 95% of cases
+
+#### **Monitoring Disease Activity** {-}
+
+Besides diagnosis, the lab also plays a key role in monitoring if a patient's disease is active (in a "flare") or in remission
+
+*   **Complement Levels (C3 and C4):** This is a critical concept. Since the pathophysiology of SLE involves the constant activation of the classical complement pathway by immune complexes, the complement proteins C3 and C4 get "used up" or consumed. Therefore, **decreased levels of C3 and C4** are a reliable indicator of active disease, especially active lupus nephritis
+
+*   **Anti-dsDNA Titer:** The titer of anti-dsDNA antibodies often rises during a disease flare and falls when the patient is in remission, making it a useful marker to track over time
